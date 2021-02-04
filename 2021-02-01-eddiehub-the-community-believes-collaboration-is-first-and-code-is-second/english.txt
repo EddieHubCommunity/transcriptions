@@ -2,7 +2,7 @@ Hi there, I am Eddie
 
 Our community is called EddieHub
 
-We believe that collaobration comes first and code comes second
+We believe that collaboration comes first and code comes second
 
 We are an inclusive open source community that focuses on supporting each other
 
@@ -18,7 +18,7 @@ We have my YouTube where you will find lots of tutorials about open source and G
 
 I also do live streams getting you involved in open source and finding you the green squares
 
-Also I bring I bring awesome guests on there to hang out with us
+Also, I bring awesome guests on there to hang out with us
 
 We also have a GitHub organisation that you can join
 
