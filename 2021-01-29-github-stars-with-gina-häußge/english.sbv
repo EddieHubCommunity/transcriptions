@@ -1,0 +1,6500 @@
+0:00:00.410,0:00:43.920
+[Music]
+
+0:00:42.840,0:00:49.689
+do
+
+0:00:43.920,0:00:49.689
+[Music]
+
+0:00:49.840,0:00:54.480
+hello everyone welcome to number three
+
+0:00:52.559,0:00:56.480
+the third episode in our github star
+
+0:00:54.480,0:00:59.680
+series and today i have the awesome
+
+0:00:56.480,0:01:02.079
+gina with us and gina has got
+
+0:00:59.680,0:01:03.520
+an amazing open source project that she
+
+0:01:02.079,0:01:04.479
+works on full time and so you know
+
+0:01:03.520,0:01:06.640
+enough for me
+
+0:01:04.479,0:01:08.000
+i'm gonna let gina introduce herself and
+
+0:01:06.640,0:01:09.760
+we can hear more about
+
+0:01:08.000,0:01:11.600
+her journey her adventures and and what
+
+0:01:09.760,0:01:13.600
+she's the amazing stuff she's
+
+0:01:11.600,0:01:15.439
+achieving and what she's got planned for
+
+0:01:13.600,0:01:17.600
+the rest of the year so gina please tell
+
+0:01:15.439,0:01:19.520
+us about yourself
+
+0:01:17.600,0:01:21.439
+well thank you eddie first of all thanks
+
+0:01:19.520,0:01:24.159
+for uh letting me be here
+
+0:01:21.439,0:01:25.759
+uh yeah my name is gina hoisker that's a
+
+0:01:24.159,0:01:26.080
+bit of a tricky name for a lot of people
+
+0:01:25.759,0:01:30.000
+who
+
+0:01:26.080,0:01:33.200
+did not grow up in germany and
+
+0:01:30.000,0:01:35.759
+i am the creator and maintainer of
+
+0:01:33.200,0:01:36.799
+a little nifty project called octoprint
+
+0:01:35.759,0:01:39.200
+which is like
+
+0:01:36.799,0:01:40.400
+remote monitoring slash baby monitor
+
+0:01:39.200,0:01:42.799
+solution for
+
+0:01:40.400,0:01:44.399
+uh 3d printers which people can just
+
+0:01:42.799,0:01:46.000
+install on the little raspberry pi or
+
+0:01:44.399,0:01:48.320
+something like that and attach to the 3d
+
+0:01:46.000,0:01:51.040
+printer and then have it
+
+0:01:48.320,0:01:53.200
+enhanced by with a with a web interface
+
+0:01:51.040,0:01:54.000
+which they can monitor everything about
+
+0:01:53.200,0:01:56.560
+which they can send
+
+0:01:54.000,0:01:57.119
+jobs to install plug-ins and all that
+
+0:01:56.560,0:02:00.479
+stuff
+
+0:01:57.119,0:02:02.880
+and yeah that's me that sounds
+
+0:02:00.479,0:02:04.799
+awesome i want to know more about that
+
+0:02:02.880,0:02:06.640
+but i suppose before we get to that
+
+0:02:04.799,0:02:09.200
+so how did you get into tech like when
+
+0:02:06.640,0:02:12.879
+did you start was it uni was it before
+
+0:02:09.200,0:02:16.400
+after uh way way before actually so
+
+0:02:12.879,0:02:17.440
+um i i was always a bit of a weird child
+
+0:02:16.400,0:02:19.760
+i think
+
+0:02:17.440,0:02:22.319
+because at h3 i already wanted like a
+
+0:02:19.760,0:02:25.040
+huge heavy drill hammer and all that but
+
+0:02:22.319,0:02:26.160
+um around when i was six or seven or so
+
+0:02:25.040,0:02:28.959
+my parents got
+
+0:02:26.160,0:02:30.480
+uh um the first computer of the
+
+0:02:28.959,0:02:31.920
+household which back then was an apple
+
+0:02:30.480,0:02:35.760
+two e
+
+0:02:31.920,0:02:36.720
+and uh i wanted to play with that but my
+
+0:02:35.760,0:02:38.239
+dad told me
+
+0:02:36.720,0:02:40.560
+yeah well you know that that is more
+
+0:02:38.239,0:02:43.120
+like a tool not another plate
+
+0:02:40.560,0:02:43.760
+no no not a toy and uh but i can tell
+
+0:02:43.120,0:02:45.280
+you i
+
+0:02:43.760,0:02:47.599
+can show you something awesome and so he
+
+0:02:45.280,0:02:50.879
+introduced me to basic
+
+0:02:47.599,0:02:52.480
+uh i could not speak a word of english
+
+0:02:50.879,0:02:54.160
+back then and everything in basic is
+
+0:02:52.480,0:02:57.440
+english so that was a bit weird but
+
+0:02:54.160,0:02:59.120
+um yeah but he he he showed me some
+
+0:02:57.440,0:03:02.400
+basic commands and
+
+0:02:59.120,0:03:04.400
+yeah instead of the the more like um
+
+0:03:02.400,0:03:06.480
+traditional hello world in my case it
+
+0:03:04.400,0:03:08.560
+was uh the name of a
+
+0:03:06.480,0:03:10.480
+very popular children's tv show in
+
+0:03:08.560,0:03:12.480
+germany that was
+
+0:03:10.480,0:03:14.159
+running in an endless loop on the screen
+
+0:03:12.480,0:03:16.400
+after a couple of minutes and that was
+
+0:03:14.159,0:03:17.680
+how yeah basically that was la the first
+
+0:03:16.400,0:03:21.680
+sight um
+
+0:03:17.680,0:03:25.840
+and ever since then i have been coding
+
+0:03:21.680,0:03:29.040
+um and yeah i've always been
+
+0:03:25.840,0:03:31.200
+interested in tech stuff and and
+
+0:03:29.040,0:03:31.760
+figuring out how stuff works how things
+
+0:03:31.200,0:03:33.360
+work i
+
+0:03:31.760,0:03:36.159
+always disassembled everything that i
+
+0:03:33.360,0:03:39.120
+got my hands on as a child and
+
+0:03:36.159,0:03:39.840
+so that was i think a natural segue so
+
+0:03:39.120,0:03:43.599
+to speak
+
+0:03:39.840,0:03:45.680
+um and what i also absolutely loved
+
+0:03:43.599,0:03:47.599
+and still actually do love and and to
+
+0:03:45.680,0:03:50.720
+this they do is build lego
+
+0:03:47.599,0:03:52.560
+and uh computer programming is a bit
+
+0:03:50.720,0:03:54.480
+like building with lego but without you
+
+0:03:52.560,0:03:55.760
+ever running out of bricks in my opinion
+
+0:03:54.480,0:03:59.760
+so that was
+
+0:03:55.760,0:04:02.400
+also like a natural um fit for me
+
+0:03:59.760,0:04:03.920
+so that this is how i got started i like
+
+0:04:02.400,0:04:06.640
+the way you explained that
+
+0:04:03.920,0:04:08.319
+coding is like lego but it's like it's
+
+0:04:06.640,0:04:11.519
+digital you never run out of bricks
+
+0:04:08.319,0:04:12.879
+love that i'm so gonna and you can even
+
+0:04:11.519,0:04:14.799
+yeah and you can even build your own
+
+0:04:12.879,0:04:16.000
+bricks i mean if you we need one that
+
+0:04:14.799,0:04:17.600
+has a specific shape
+
+0:04:16.000,0:04:19.199
+right you can just you don't have to
+
+0:04:17.600,0:04:20.400
+wait for lego to produce it you just do
+
+0:04:19.199,0:04:22.320
+it yourself
+
+0:04:20.400,0:04:23.600
+love that that is right it's building
+
+0:04:22.320,0:04:24.479
+blocks i really like that we used like
+
+0:04:23.600,0:04:26.240
+you know
+
+0:04:24.479,0:04:27.759
+other libraries packages to help us do
+
+0:04:26.240,0:04:30.880
+it we can write our own as well
+
+0:04:27.759,0:04:32.720
+which i think is is awesome so let's
+
+0:04:30.880,0:04:34.560
+hear more about
+
+0:04:32.720,0:04:35.919
+um i love your open source project i
+
+0:04:34.560,0:04:38.400
+think it's awesome like it's in
+
+0:04:35.919,0:04:39.440
+you know in the 3d you know printing
+
+0:04:38.400,0:04:42.639
+space which is just
+
+0:04:39.440,0:04:45.680
+so exciting so awesome and how did you
+
+0:04:42.639,0:04:47.440
+come about with this idea was it one of
+
+0:04:45.680,0:04:48.960
+those situations where it was
+
+0:04:47.440,0:04:50.080
+you know scratch your own itch did you
+
+0:04:48.960,0:04:51.199
+have like do you see something missing
+
+0:04:50.080,0:04:52.320
+and you built something for yourself and
+
+0:04:51.199,0:04:55.680
+then it just kind of
+
+0:04:52.320,0:04:58.160
+grew from there exactly that so i got
+
+0:04:55.680,0:05:01.280
+myself my first 3d printer back in
+
+0:04:58.160,0:05:05.039
+i think november 2012 uh
+
+0:05:01.280,0:05:06.720
+2012. yeah 2012. uh and
+
+0:05:05.039,0:05:08.160
+it was sitting right here next to me in
+
+0:05:06.720,0:05:11.360
+my office
+
+0:05:08.160,0:05:13.199
+and uh well back then printers do not
+
+0:05:11.360,0:05:14.080
+necessarily have their own memory or
+
+0:05:13.199,0:05:15.840
+anything on it
+
+0:05:14.080,0:05:18.000
+uh like they do these days where you can
+
+0:05:15.840,0:05:18.880
+at least plug an sd card in and print
+
+0:05:18.000,0:05:20.880
+from that but
+
+0:05:18.880,0:05:22.560
+you still had to have a tethered to your
+
+0:05:20.880,0:05:24.720
+to your computer
+
+0:05:22.560,0:05:26.000
+and stream all the the commands to it
+
+0:05:24.720,0:05:27.520
+and all that and that was
+
+0:05:26.000,0:05:29.120
+somewhat annoying when you were also
+
+0:05:27.520,0:05:30.960
+trying to use the computer for something
+
+0:05:29.120,0:05:34.400
+else like playing a game or
+
+0:05:30.960,0:05:35.919
+work or whatnot and also for hours on
+
+0:05:34.400,0:05:38.960
+end that thing would sit next to me
+
+0:05:35.919,0:05:41.120
+and produce noises and fumes which also
+
+0:05:38.960,0:05:42.800
+i mean they are not that bad but if they
+
+0:05:41.120,0:05:44.960
+do it for hours and hours and hours they
+
+0:05:42.800,0:05:47.440
+can just go on your nerves
+
+0:05:44.960,0:05:48.639
+and yeah so there was a point where i
+
+0:05:47.440,0:05:50.160
+figured okay then
+
+0:05:48.639,0:05:51.919
+there needs to be some kind of solution
+
+0:05:50.160,0:05:53.919
+for this problem i cannot be the only
+
+0:05:51.919,0:05:56.800
+one who has ever experienced that
+
+0:05:53.919,0:05:59.120
+and so i i i started looking around the
+
+0:05:56.800,0:06:00.800
+raspberry pi just come out in that year
+
+0:05:59.120,0:06:02.800
+and i looked for something that i could
+
+0:06:00.800,0:06:05.199
+just run on a pie and
+
+0:06:02.800,0:06:07.440
+put the pie on the on the printer and
+
+0:06:05.199,0:06:09.840
+and plug in the wi-fi dongle back then
+
+0:06:07.440,0:06:13.280
+the pi did not come with wi-fi on board
+
+0:06:09.840,0:06:15.680
+and be able to remotely monitor it and
+
+0:06:13.280,0:06:16.960
+remote control it and all that and it
+
+0:06:15.680,0:06:19.759
+turned out there was
+
+0:06:16.960,0:06:21.520
+simply no such thing yet um there were
+
+0:06:19.759,0:06:23.199
+some projects which treated the printer
+
+0:06:21.520,0:06:25.280
+like a black box where you would just
+
+0:06:23.199,0:06:26.880
+push code there and hope it would get
+
+0:06:25.280,0:06:28.479
+printed but you did not know
+
+0:06:26.880,0:06:30.319
+if it actually was doing anything there
+
+0:06:28.479,0:06:31.919
+was no back channel so to speak and that
+
+0:06:30.319,0:06:33.440
+was something that did not work for me
+
+0:06:31.919,0:06:36.960
+at all so
+
+0:06:33.440,0:06:40.639
+yeah um i was still employed with a big
+
+0:06:36.960,0:06:43.680
+uh yeah i t custom solution development
+
+0:06:40.639,0:06:47.280
+corporation kind of thing back then
+
+0:06:43.680,0:06:50.639
+so i was a coder
+
+0:06:47.280,0:06:53.280
+or rather a software architect by day
+
+0:06:50.639,0:06:54.000
+and so it came somewhat naturally to me
+
+0:06:53.280,0:06:55.680
+to also
+
+0:06:54.000,0:06:57.520
+take the opportunity to start up a new
+
+0:06:55.680,0:06:59.520
+pet project because it had been a while
+
+0:06:57.520,0:07:01.599
+since i last had something like this and
+
+0:06:59.520,0:07:03.039
+at work they did not let me that close
+
+0:07:01.599,0:07:04.800
+to code anymore because i was too
+
+0:07:03.039,0:07:06.960
+expensive or something
+
+0:07:04.800,0:07:08.240
+and so over the course of my christmas
+
+0:07:06.960,0:07:10.319
+break i sat down
+
+0:07:08.240,0:07:12.000
+and wrote up the very very very very
+
+0:07:10.319,0:07:12.639
+first version of octoprint which back
+
+0:07:12.000,0:07:16.000
+then was
+
+0:07:12.639,0:07:18.960
+called i think it even was called cura
+
+0:07:16.000,0:07:20.319
+web ui at first because it was forked
+
+0:07:18.960,0:07:22.800
+off another project
+
+0:07:20.319,0:07:24.240
+that in other soic could you reuse the
+
+0:07:22.800,0:07:25.599
+communication layer because i had no
+
+0:07:24.240,0:07:26.560
+idea about printer communication back
+
+0:07:25.599,0:07:31.280
+then
+
+0:07:26.560,0:07:33.120
+and um so i just plugged this on top
+
+0:07:31.280,0:07:35.120
+and it worked somehow and then people
+
+0:07:33.120,0:07:37.039
+complained that they had to install
+
+0:07:35.120,0:07:38.960
+all of cura in order to run that thing
+
+0:07:37.039,0:07:42.400
+that i built so extracted it
+
+0:07:38.960,0:07:45.680
+and then it took off from there
+
+0:07:42.400,0:07:47.360
+so i i i believe so after the
+
+0:07:45.680,0:07:49.039
+after the end of my christmas vacation i
+
+0:07:47.360,0:07:50.479
+figured okay it's doing everything that
+
+0:07:49.039,0:07:53.599
+i wanted to do now
+
+0:07:50.479,0:07:55.680
+i'm done with this and just
+
+0:07:53.599,0:07:58.000
+went back to my regular job and suddenly
+
+0:07:55.680,0:08:00.000
+i started getting emails and and issues
+
+0:07:58.000,0:08:01.759
+and all that from all over the world and
+
+0:08:00.000,0:08:03.759
+can you make it do that and can you make
+
+0:08:01.759,0:08:05.599
+it also do that and hey by the way i
+
+0:08:03.759,0:08:07.120
+have this other kind of printer with
+
+0:08:05.599,0:08:08.800
+this different kind of firmware
+
+0:08:07.120,0:08:10.479
+and it does this and this differently
+
+0:08:08.800,0:08:12.479
+and can we maybe make it work with your
+
+0:08:10.479,0:08:14.160
+thing as well and
+
+0:08:12.479,0:08:15.599
+around that time that was when i
+
+0:08:14.160,0:08:17.440
+realized okay
+
+0:08:15.599,0:08:18.639
+apparently other people do have the same
+
+0:08:17.440,0:08:21.919
+problems as i do
+
+0:08:18.639,0:08:25.280
+and i need to maybe
+
+0:08:21.919,0:08:28.160
+think about how to make this better
+
+0:08:25.280,0:08:28.639
+so it works for everyone and not just me
+
+0:08:28.160,0:08:31.039
+and
+
+0:08:28.639,0:08:32.880
+yeah that was also when it got an actual
+
+0:08:31.039,0:08:34.640
+name and all that
+
+0:08:32.880,0:08:36.479
+and what which when you said you did
+
+0:08:34.640,0:08:39.599
+over the the holiday season
+
+0:08:36.479,0:08:42.159
+what um which holiday season was that
+
+0:08:39.599,0:08:45.200
+like how many years ago
+
+0:08:42.159,0:08:48.000
+2012. oh it was back then okay
+
+0:08:45.200,0:08:50.240
+so okay yeah yeah so so i it started
+
+0:08:48.000,0:08:52.880
+over eight years ago
+
+0:08:50.240,0:08:54.080
+nice and i think i i did the first
+
+0:08:52.880,0:08:58.480
+public post about
+
+0:08:54.080,0:09:01.519
+it on uh december 25th 2012.
+
+0:08:58.480,0:09:04.880
+got you and um what what technology did
+
+0:09:01.519,0:09:08.160
+you use what was it written in
+
+0:09:04.880,0:09:10.240
+python yeah so um initially i took a
+
+0:09:08.160,0:09:11.600
+look at node.js but back then at least i
+
+0:09:10.240,0:09:13.200
+don't know if things are different these
+
+0:09:11.600,0:09:15.920
+days but back then
+
+0:09:13.200,0:09:16.560
+uh the the um ecosystem simply wasn't
+
+0:09:15.920,0:09:18.080
+there yet
+
+0:09:16.560,0:09:20.160
+especially not if you were trying to
+
+0:09:18.080,0:09:21.839
+stay platform compatible
+
+0:09:20.160,0:09:23.680
+across platform compatible which was
+
+0:09:21.839,0:09:25.279
+also gold that i had because
+
+0:09:23.680,0:09:27.279
+maybe not everyone wants to run it on a
+
+0:09:25.279,0:09:29.600
+raspberry pi but on an old laptop or
+
+0:09:27.279,0:09:31.360
+something so
+
+0:09:29.600,0:09:32.720
+and i also wanted to be able to develop
+
+0:09:31.360,0:09:35.519
+it on my
+
+0:09:32.720,0:09:36.240
+workstation which to this day still runs
+
+0:09:35.519,0:09:38.000
+windows
+
+0:09:36.240,0:09:39.360
+because i also am a gamer and i do not
+
+0:09:38.000,0:09:42.480
+want to constantly reboot
+
+0:09:39.360,0:09:45.760
+just to work or game and
+
+0:09:42.480,0:09:48.080
+um yeah so so i did
+
+0:09:45.760,0:09:50.000
+so i decided on python and cura was also
+
+0:09:48.080,0:09:53.200
+written in python so i could just
+
+0:09:50.000,0:09:55.440
+use these parts that i uh still
+
+0:09:53.200,0:09:56.480
+have the communication layer built on
+
+0:09:55.440,0:09:59.120
+these days
+
+0:09:56.480,0:10:00.720
+and go from there and i had learned
+
+0:09:59.120,0:10:04.640
+python a couple years ago
+
+0:10:00.720,0:10:07.200
+before that when i was so i started
+
+0:10:04.640,0:10:08.640
+right after universe so maybe i should
+
+0:10:07.200,0:10:11.040
+go a bit back so
+
+0:10:08.640,0:10:12.560
+uh after i realized hey coding is like
+
+0:10:11.040,0:10:13.839
+lego bricks without running out of
+
+0:10:12.560,0:10:16.079
+bricks i decided
+
+0:10:13.839,0:10:18.000
+uh i need to do this somehow in my life
+
+0:10:16.079,0:10:19.680
+then i learned software engineer is an
+
+0:10:18.000,0:10:20.079
+actual job that people can do and from
+
+0:10:19.680,0:10:23.360
+that
+
+0:10:20.079,0:10:24.320
+point on so maybe like when i was 12 or
+
+0:10:23.360,0:10:27.200
+so i was
+
+0:10:24.320,0:10:27.760
+dead set on becoming a software engineer
+
+0:10:27.200,0:10:30.560
+so
+
+0:10:27.760,0:10:31.279
+university was a natural thing to do
+
+0:10:30.560,0:10:34.240
+right after
+
+0:10:31.279,0:10:34.640
+graduating from school and so i studied
+
+0:10:34.240,0:10:36.240
+so
+
+0:10:34.640,0:10:38.480
+a software engineer or computer science
+
+0:10:36.240,0:10:41.200
+rather and right after that
+
+0:10:38.480,0:10:42.720
+i figured i i wasn't really sure yet
+
+0:10:41.200,0:10:44.240
+what to do next with my life
+
+0:10:42.720,0:10:46.399
+and a position opened up at the
+
+0:10:44.240,0:10:48.399
+university to be a system administrator
+
+0:10:46.399,0:10:50.240
+and so i did that and this is where i
+
+0:10:48.399,0:10:51.920
+learned python properly
+
+0:10:50.240,0:10:53.600
+because uh yeah for system
+
+0:10:51.920,0:10:54.720
+administration for automating some stuff
+
+0:10:53.600,0:10:57.920
+it can be quite
+
+0:10:54.720,0:11:00.240
+nice to have and yeah this is basically
+
+0:10:57.920,0:11:03.920
+what i then um
+
+0:11:00.240,0:11:05.600
+was able to build upon with uh when when
+
+0:11:03.920,0:11:07.200
+octoprints started or happened or
+
+0:11:05.600,0:11:10.880
+whatever
+
+0:11:07.200,0:11:12.240
+and um when did you go full time on
+
+0:11:10.880,0:11:14.240
+turrets when did you leave your job and
+
+0:11:12.240,0:11:16.959
+go full time to it
+
+0:11:14.240,0:11:18.079
+so that was a bit of a process um
+
+0:11:16.959,0:11:21.279
+because
+
+0:11:18.079,0:11:24.000
+so things exploded right and around uh
+
+0:11:21.279,0:11:26.800
+yeah let's say at the start of 20 at the
+
+0:11:24.000,0:11:27.839
+middle of 2013 or so it was it got quite
+
+0:11:26.800,0:11:30.000
+clear that
+
+0:11:27.839,0:11:31.600
+i could not do this completely just in
+
+0:11:30.000,0:11:33.200
+my free time anymore because the project
+
+0:11:31.600,0:11:34.959
+was just too big and the user base was
+
+0:11:33.200,0:11:38.079
+too big and all that
+
+0:11:34.959,0:11:38.720
+and so i first talked my employer into
+
+0:11:38.079,0:11:42.399
+giving me
+
+0:11:38.720,0:11:43.040
+one day off so i reduced my contract to
+
+0:11:42.399,0:11:46.079
+80
+
+0:11:43.040,0:11:49.440
+at 80 pay obviously and uh
+
+0:11:46.079,0:11:52.240
+got them to uh make it make sure that i
+
+0:11:49.440,0:11:54.399
+at least could dedicate mondays as well
+
+0:11:52.240,0:11:57.519
+to the project
+
+0:11:54.399,0:12:00.079
+uh so it went like that until the early
+
+0:11:57.519,0:12:03.120
+uh months i think february or march or
+
+0:12:00.079,0:12:05.600
+so of 2014 when i realized okay
+
+0:12:03.120,0:12:06.560
+this one day per week this is not really
+
+0:12:05.600,0:12:10.160
+enough anymore
+
+0:12:06.560,0:12:13.680
+and i need to find a way to either
+
+0:12:10.160,0:12:16.880
+work full time on this or i
+
+0:12:13.680,0:12:18.880
+have to drop this because at this point
+
+0:12:16.880,0:12:19.279
+it was become becoming quite unhealthy
+
+0:12:18.880,0:12:21.920
+and
+
+0:12:19.279,0:12:23.519
+really not sustainable all evenings were
+
+0:12:21.920,0:12:24.639
+spent on the project or weekends were
+
+0:12:23.519,0:12:26.399
+spent on the project
+
+0:12:24.639,0:12:28.639
+most of the vacation days my friends and
+
+0:12:26.399,0:12:30.320
+family were a bit of a bit pissed at me
+
+0:12:28.639,0:12:32.959
+at this point as well so
+
+0:12:30.320,0:12:34.639
+um and i also noticed it in my health
+
+0:12:32.959,0:12:36.240
+that i was simply not getting the rest
+
+0:12:34.639,0:12:36.720
+that i needed because i was constantly
+
+0:12:36.240,0:12:39.440
+just
+
+0:12:36.720,0:12:41.839
+either coding on work coding or working
+
+0:12:39.440,0:12:44.240
+at work on on stuff or
+
+0:12:41.839,0:12:46.240
+working on octoprint and just at that
+
+0:12:44.240,0:12:47.920
+time uh suddenly an email found its way
+
+0:12:46.240,0:12:50.240
+into my inbox from a company
+
+0:12:47.920,0:12:52.480
+a spanish 3d printer company who offered
+
+0:12:50.240,0:12:54.000
+to hire me full time to work on
+
+0:12:52.480,0:12:55.680
+octoprint because they
+
+0:12:54.000,0:12:57.760
+they basically said hey we like what
+
+0:12:55.680,0:13:00.240
+you're doing uh we want
+
+0:12:57.760,0:13:01.920
+want to invite you here uh to visit us
+
+0:13:00.240,0:13:03.839
+and and let's talk maybe
+
+0:13:01.920,0:13:05.600
+if you want to get on board with us and
+
+0:13:03.839,0:13:08.480
+work full-time on octoprint
+
+0:13:05.600,0:13:09.360
+so i said i immediately got on a plane
+
+0:13:08.480,0:13:12.079
+to madrid
+
+0:13:09.360,0:13:12.800
+and we talked and we came to a
+
+0:13:12.079,0:13:15.279
+conclusion
+
+0:13:12.800,0:13:16.320
+and this is how i turned it full-time in
+
+0:13:15.279,0:13:20.079
+august
+
+0:13:16.320,0:13:22.160
+2014. then said company sadly ran
+
+0:13:20.079,0:13:23.120
+into some let's call it economical
+
+0:13:22.160,0:13:27.200
+difficulties
+
+0:13:23.120,0:13:29.200
+in uh in early 2016
+
+0:13:27.200,0:13:30.560
+and that was when i suddenly found
+
+0:13:29.200,0:13:33.200
+myself with
+
+0:13:30.560,0:13:34.079
+a full-time open source project on my
+
+0:13:33.200,0:13:35.839
+hand but no
+
+0:13:34.079,0:13:37.279
+funding right okay that's quite
+
+0:13:35.839,0:13:39.040
+challenging
+
+0:13:37.279,0:13:40.720
+yep and this was the point where i
+
+0:13:39.040,0:13:42.480
+figured okay uh
+
+0:13:40.720,0:13:43.760
+i am deadly afraid of this whole
+
+0:13:42.480,0:13:47.120
+situation because
+
+0:13:43.760,0:13:49.040
+up on this up up until this point i
+
+0:13:47.120,0:13:50.240
+had always been in a regular employment
+
+0:13:49.040,0:13:54.480
+situation right so
+
+0:13:50.240,0:13:58.000
+i had a contract and salary and all that
+
+0:13:54.480,0:14:01.440
+and social security security insurances
+
+0:13:58.000,0:14:02.560
+all the all the nine yards of regular
+
+0:14:01.440,0:14:05.920
+german
+
+0:14:02.560,0:14:08.000
+work life and
+
+0:14:05.920,0:14:08.959
+now i had the option of either letting
+
+0:14:08.000,0:14:11.279
+octoprint go
+
+0:14:08.959,0:14:13.199
+and going back into something like that
+
+0:14:11.279,0:14:14.959
+by finding another job which i was
+
+0:14:13.199,0:14:18.720
+fairly sure i would quickly find
+
+0:14:14.959,0:14:20.480
+given my uh cv or
+
+0:14:18.720,0:14:22.000
+and i was quite sure if i did not try
+
+0:14:20.480,0:14:22.320
+that i would kick myself for the rest of
+
+0:14:22.000,0:14:25.279
+the
+
+0:14:22.320,0:14:27.120
+of my life try if i could somehow make
+
+0:14:25.279,0:14:29.839
+it work through crowdfunding
+
+0:14:27.120,0:14:30.639
+okay and that was when i turned to
+
+0:14:29.839,0:14:34.000
+patreon
+
+0:14:30.639,0:14:37.279
+and fired up a campaign and
+
+0:14:34.000,0:14:39.279
+rallied people to basically yeah put
+
+0:14:37.279,0:14:41.199
+their money where their mouth is because
+
+0:14:39.279,0:14:43.120
+the project was in crisis and it was
+
+0:14:41.199,0:14:46.160
+either that supporting me
+
+0:14:43.120,0:14:49.360
+somehow or i had to give up on that
+
+0:14:46.160,0:14:53.600
+and yeah
+
+0:14:49.360,0:14:56.079
+to my utter surprise it worked so
+
+0:14:53.600,0:14:58.160
+people did in fact uh immediately jump
+
+0:14:56.079,0:15:01.839
+on this campaign and contributed
+
+0:14:58.160,0:15:03.600
+and uh yeah that was quite it was quite
+
+0:15:01.839,0:15:06.000
+the awesome experience and to this day
+
+0:15:03.600,0:15:07.120
+i cannot really i cannot really grasp it
+
+0:15:06.000,0:15:09.760
+really to this day
+
+0:15:07.120,0:15:11.199
+like there are thousands of people now
+
+0:15:09.760,0:15:14.160
+who
+
+0:15:11.199,0:15:15.839
+give as little as a dollar per month or
+
+0:15:14.160,0:15:19.279
+as much as 20
+
+0:15:15.839,0:15:22.160
+and and simply make it work so that
+
+0:15:19.279,0:15:25.199
+the whole mass of of of people together
+
+0:15:22.160,0:15:27.760
+makes it so that i can do this full time
+
+0:15:25.199,0:15:28.399
+and uh can do this now full time in this
+
+0:15:27.760,0:15:30.720
+mode for
+
+0:15:28.399,0:15:32.000
+over four years now and this is just
+
+0:15:30.720,0:15:34.959
+amazing
+
+0:15:32.000,0:15:35.279
+it's stressful and it's it's insane and
+
+0:15:34.959,0:15:38.560
+but
+
+0:15:35.279,0:15:39.920
+but it's amazing that's so cool and
+
+0:15:38.560,0:15:41.360
+you answered my question already i was
+
+0:15:39.920,0:15:42.880
+going to ask what sort of donations do
+
+0:15:41.360,0:15:44.720
+you get are they around the
+
+0:15:42.880,0:15:46.639
+you know the one to twenty or they in
+
+0:15:44.720,0:15:48.959
+the hundreds or thousands so
+
+0:15:46.639,0:15:50.800
+um it sounds like you go for like small
+
+0:15:48.959,0:15:52.320
+donation donations but a bigger amount
+
+0:15:50.800,0:15:55.040
+of people
+
+0:15:52.320,0:15:57.199
+yeah yeah in general it's like i mean
+
+0:15:55.040,0:15:59.040
+there are some i have two
+
+0:15:57.199,0:16:00.800
+two legs basically on which i'm standing
+
+0:15:59.040,0:16:03.120
+uh donation-wise one side is the
+
+0:16:00.800,0:16:04.800
+recurring ones where patreon wire github
+
+0:16:03.120,0:16:08.480
+sponsoring by a
+
+0:16:04.800,0:16:11.440
+um donor box and libera pay
+
+0:16:08.480,0:16:13.040
+okay and those are like smaller things
+
+0:16:11.440,0:16:14.639
+but there's also one time donations and
+
+0:16:13.040,0:16:16.959
+those sometimes are a bit
+
+0:16:14.639,0:16:18.480
+bigger it always depends so like i do
+
+0:16:16.959,0:16:20.160
+not make rules there
+
+0:16:18.480,0:16:22.240
+people give me how many they want how
+
+0:16:20.160,0:16:24.720
+much they can and they want
+
+0:16:22.240,0:16:25.519
+and i'm i'm grateful for everything be
+
+0:16:24.720,0:16:28.079
+it
+
+0:16:25.519,0:16:30.160
+one dollar or be it obviously more than
+
+0:16:28.079,0:16:31.680
+one dollar
+
+0:16:30.160,0:16:32.959
+that's uh i mean that's it's just
+
+0:16:31.680,0:16:34.399
+awesome i know a lot of people i'm
+
+0:16:32.959,0:16:35.199
+seeing from the chat now i know a lot of
+
+0:16:34.399,0:16:36.639
+people
+
+0:16:35.199,0:16:38.399
+you know want to get into open source
+
+0:16:36.639,0:16:40.880
+full-time um i know
+
+0:16:38.399,0:16:42.240
+that i do a lot of open source as well
+
+0:16:40.880,0:16:43.120
+and people know my stories i'm not going
+
+0:16:42.240,0:16:45.519
+to go into that
+
+0:16:43.120,0:16:46.480
+but it's interesting that you know you
+
+0:16:45.519,0:16:49.680
+you've done yours
+
+0:16:46.480,0:16:50.720
+via patreon and similar platforms and
+
+0:16:49.680,0:16:52.720
+that's worked out
+
+0:16:50.720,0:16:55.279
+really well and you've been going strong
+
+0:16:52.720,0:16:58.000
+and do you find that as time goes on
+
+0:16:55.279,0:16:58.320
+it is uh getting stronger as well as in
+
+0:16:58.000,0:17:01.199
+uh
+
+0:16:58.320,0:17:02.560
+our other donation are other nations
+
+0:17:01.199,0:17:04.319
+overall kind of
+
+0:17:02.560,0:17:06.880
+increasing that in the future you might
+
+0:17:04.319,0:17:08.400
+be able to potentially hire someone else
+
+0:17:06.880,0:17:11.039
+to to help you as well is that a
+
+0:17:08.400,0:17:11.039
+possibility
+
+0:17:11.199,0:17:14.880
+it's hard to say to be honest so i'm
+
+0:17:13.039,0:17:15.280
+hoping that someday this is something
+
+0:17:14.880,0:17:17.839
+that
+
+0:17:15.280,0:17:19.439
+will be possible though in in germany
+
+0:17:17.839,0:17:21.199
+there's a lot of red tape associated
+
+0:17:19.439,0:17:22.559
+with actually hiring someone a lot more
+
+0:17:21.199,0:17:25.199
+than in other countries
+
+0:17:22.559,0:17:26.240
+uh which makes this a bit more tricky uh
+
+0:17:25.199,0:17:28.160
+to pull off but
+
+0:17:26.240,0:17:30.400
+i hope that maybe someday it will get
+
+0:17:28.160,0:17:34.320
+there it is
+
+0:17:30.400,0:17:36.160
+fluctuating so okay
+
+0:17:34.320,0:17:39.200
+right now it's at a point i would say
+
+0:17:36.160,0:17:42.480
+where i'm keeping up with uh
+
+0:17:39.200,0:17:44.720
+with uh inflation and all that but uh
+
+0:17:42.480,0:17:45.600
+it's always a bit tricky i i alway i
+
+0:17:44.720,0:17:48.720
+also have
+
+0:17:45.600,0:17:50.799
+started to to try to yeah
+
+0:17:48.720,0:17:52.960
+basic basically diversify so that's not
+
+0:17:50.799,0:17:55.679
+just donations i'm also
+
+0:17:52.960,0:17:58.840
+using ad revenue i uh use uh
+
+0:17:55.679,0:18:02.480
+sponsorships by corporations now as well
+
+0:17:58.840,0:18:04.640
+um and also stuff like merchandise
+
+0:18:02.480,0:18:05.679
+sales though that is like really really
+
+0:18:04.640,0:18:08.960
+little
+
+0:18:05.679,0:18:11.679
+amount but still this is stuff that i uh
+
+0:18:08.960,0:18:13.039
+also have started doing and yeah the
+
+0:18:11.679,0:18:15.679
+idea is basically
+
+0:18:13.039,0:18:17.520
+the shock of of losing this this this
+
+0:18:15.679,0:18:19.280
+gig that i had that allowed me to do it
+
+0:18:17.520,0:18:21.280
+full-time because one company couldn't
+
+0:18:19.280,0:18:23.039
+afford it anymore has taught me that
+
+0:18:21.280,0:18:24.559
+i think if you want this to work in some
+
+0:18:23.039,0:18:25.440
+way in open source you really need to
+
+0:18:24.559,0:18:27.360
+diversify
+
+0:18:25.440,0:18:28.960
+you need to spread it as far and wide as
+
+0:18:27.360,0:18:30.640
+possible across as many sources as
+
+0:18:28.960,0:18:33.120
+possible so that if one
+
+0:18:30.640,0:18:35.200
+cannot do it anymore be it a one dollar
+
+0:18:33.120,0:18:36.960
+person or be it a one thousand dollar
+
+0:18:35.200,0:18:38.720
+corporation
+
+0:18:36.960,0:18:40.960
+it might still hurt but it will not hurt
+
+0:18:38.720,0:18:42.880
+as much it will not put the project at
+
+0:18:40.960,0:18:44.880
+risk that's very true
+
+0:18:42.880,0:18:46.880
+and we've got a question here from
+
+0:18:44.880,0:18:48.400
+santosh another github star who was on
+
+0:18:46.880,0:18:49.200
+my channel i think last week or the week
+
+0:18:48.400,0:18:52.240
+before
+
+0:18:49.200,0:18:53.200
+um so if i can maybe generalize this
+
+0:18:52.240,0:18:55.520
+question a bit
+
+0:18:53.200,0:18:57.520
+i guess from your different sources of
+
+0:18:55.520,0:18:59.840
+income what's the percentage that you
+
+0:18:57.520,0:19:01.840
+kind of that it makes up your income so
+
+0:18:59.840,0:19:04.240
+i'm guessing patreon makes up the
+
+0:19:01.840,0:19:05.039
+biggest chunk that you get yeah yep
+
+0:19:04.240,0:19:07.039
+definitely
+
+0:19:05.039,0:19:10.080
+and then the smallest chunk is is that
+
+0:19:07.039,0:19:12.480
+getting to be the the swag sales
+
+0:19:10.080,0:19:13.760
+yeah yeah that that would be that i
+
+0:19:12.480,0:19:16.880
+guess
+
+0:19:13.760,0:19:19.520
+the rest is like in between okay
+
+0:19:16.880,0:19:21.280
+why does github sponsors i guess sit in
+
+0:19:19.520,0:19:23.440
+in that scale roughly
+
+0:19:21.280,0:19:24.480
+um is it catching up with patreon or not
+
+0:19:23.440,0:19:26.320
+really
+
+0:19:24.480,0:19:27.840
+oh it's far away like it's moment it's
+
+0:19:26.320,0:19:31.520
+currently like at uh
+
+0:19:27.840,0:19:35.039
+um how do you say like a tenth maybe
+
+0:19:31.520,0:19:37.600
+of uh okay off of patreon
+
+0:19:35.039,0:19:39.600
+uh but obviously i mean patreon has been
+
+0:19:37.600,0:19:42.000
+there longer as well and this was also
+
+0:19:39.600,0:19:45.440
+the platform that i started on
+
+0:19:42.000,0:19:48.240
+and uh yeah um
+
+0:19:45.440,0:19:48.559
+it's just spread across it but but from
+
+0:19:48.240,0:19:50.400
+the
+
+0:19:48.559,0:19:52.400
+from the one time from the recurring
+
+0:19:50.400,0:19:54.400
+donation platforms one
+
+0:19:52.400,0:19:55.919
+github sponsor i think is the second
+
+0:19:54.400,0:19:58.240
+rank right now for me
+
+0:19:55.919,0:20:00.080
+okay okay that sounds with regards to
+
+0:19:58.240,0:20:02.799
+what i get back from it yeah
+
+0:20:00.080,0:20:05.039
+that sounds good and uh here's a
+
+0:20:02.799,0:20:06.880
+question from five iv let me bring it up
+
+0:20:05.039,0:20:08.799
+on the screen
+
+0:20:06.880,0:20:10.880
+how often does full time open source
+
+0:20:08.799,0:20:12.400
+become economically viable is it better
+
+0:20:10.880,0:20:14.000
+to do half and half
+
+0:20:12.400,0:20:15.679
+or work in paid rolls for a few years
+
+0:20:14.000,0:20:20.000
+and then full time open source while
+
+0:20:15.679,0:20:22.240
+using save money
+
+0:20:20.000,0:20:24.240
+it's tricky i think to be make it become
+
+0:20:22.240,0:20:26.080
+economically viable so in my case i
+
+0:20:24.240,0:20:26.960
+think i just had a perfect storm of
+
+0:20:26.080,0:20:29.280
+having a
+
+0:20:26.960,0:20:30.640
+committed community already who had said
+
+0:20:29.280,0:20:33.679
+who i had been able to
+
+0:20:30.640,0:20:35.520
+to show that i can deliver and that i
+
+0:20:33.679,0:20:40.240
+can do a good job
+
+0:20:35.520,0:20:43.760
+and uh that i think enabled this to work
+
+0:20:40.240,0:20:45.919
+mostly but i cannot really
+
+0:20:43.760,0:20:46.880
+say what is the best approach here what
+
+0:20:45.919,0:20:49.200
+i
+
+0:20:46.880,0:20:51.760
+what i would advise against from a
+
+0:20:49.200,0:20:54.720
+sustainability and personal health
+
+0:20:51.760,0:20:55.760
+kind of a position is actually to try to
+
+0:20:54.720,0:20:59.280
+do it
+
+0:20:55.760,0:21:01.520
+at the same time both i mean
+
+0:20:59.280,0:21:03.520
+what what what i think is important if
+
+0:21:01.520,0:21:05.919
+you do open source and you do not
+
+0:21:03.520,0:21:07.679
+do it yet full time then make extra
+
+0:21:05.919,0:21:09.600
+extra sure that you do not
+
+0:21:07.679,0:21:11.039
+overwork yourself because the last thing
+
+0:21:09.600,0:21:13.600
+you want is to i mean
+
+0:21:11.039,0:21:14.240
+we do open source at the beginning at
+
+0:21:13.600,0:21:16.960
+least and
+
+0:21:14.240,0:21:18.799
+i personally still do it for fun right
+
+0:21:16.960,0:21:20.640
+because we like growing with it
+
+0:21:18.799,0:21:22.240
+and we like helping people and we like
+
+0:21:20.640,0:21:24.000
+learning new stuff and we like
+
+0:21:22.240,0:21:26.080
+solving problems maybe and playing with
+
+0:21:24.000,0:21:29.440
+lego bricks that never run out
+
+0:21:26.080,0:21:31.760
+and um so when you
+
+0:21:29.440,0:21:32.480
+do that and but you also have to run a
+
+0:21:31.760,0:21:35.200
+day job
+
+0:21:32.480,0:21:35.919
+it can start to feel like a second job
+
+0:21:35.200,0:21:38.480
+and
+
+0:21:35.919,0:21:39.760
+it can stop being fun and it can start
+
+0:21:38.480,0:21:42.480
+to
+
+0:21:39.760,0:21:44.000
+quickly dissolve in or evolve into into
+
+0:21:42.480,0:21:45.360
+burnout territory and this is something
+
+0:21:44.000,0:21:46.960
+that you have to be really really
+
+0:21:45.360,0:21:48.880
+careful of
+
+0:21:46.960,0:21:50.320
+so yeah the last thing you want is
+
+0:21:48.880,0:21:51.919
+something that you love to be actually
+
+0:21:50.320,0:21:54.559
+something you start hating
+
+0:21:51.919,0:21:56.240
+that's so very true it's very true it is
+
+0:21:54.559,0:21:57.679
+hard work at the beginning i think it's
+
+0:21:56.240,0:21:58.000
+just finding that balance so you want to
+
+0:21:57.679,0:21:59.760
+work
+
+0:21:58.000,0:22:01.360
+hard so you can keep pushing forward but
+
+0:21:59.760,0:22:03.840
+like you said not work too hard where
+
+0:22:01.360,0:22:06.480
+you burn out and then you start to
+
+0:22:03.840,0:22:08.240
+to hate it as well yeah i think you
+
+0:22:06.480,0:22:12.480
+should just not try to force it
+
+0:22:08.240,0:22:14.720
+because i mean i'm very very much aware
+
+0:22:12.480,0:22:15.919
+that what the the situation that i find
+
+0:22:14.720,0:22:19.120
+myself in that
+
+0:22:15.919,0:22:20.799
+that was like a one of uh one of one of
+
+0:22:19.120,0:22:23.600
+a kind situation like
+
+0:22:20.799,0:22:25.200
+being able to start out funded by a
+
+0:22:23.600,0:22:28.480
+corporation being able to
+
+0:22:25.200,0:22:31.600
+grow the project during that and then
+
+0:22:28.480,0:22:33.679
+switching to crowdfunding and i'm not
+
+0:22:31.600,0:22:35.280
+sure if i had been able to pull this off
+
+0:22:33.679,0:22:37.679
+if i hadn't had this
+
+0:22:35.280,0:22:39.520
+this almost two years of being able to
+
+0:22:37.679,0:22:43.360
+already work on it full time
+
+0:22:39.520,0:22:46.240
+in a in a financially secure setting um
+
+0:22:43.360,0:22:46.880
+and and proving my worth so to speak and
+
+0:22:46.240,0:22:49.520
+also
+
+0:22:46.880,0:22:50.640
+laying some ground work that then i
+
+0:22:49.520,0:22:55.360
+could
+
+0:22:50.640,0:22:58.400
+more easily build up on after
+
+0:22:55.360,0:23:00.000
+so yeah okay so uh
+
+0:22:58.400,0:23:02.640
+next question is quite an interesting
+
+0:23:00.000,0:23:05.679
+one from uh i think it's alex
+
+0:23:02.640,0:23:07.280
+says um how do you see the future of
+
+0:23:05.679,0:23:08.000
+open source i know everyone knows my
+
+0:23:07.280,0:23:10.559
+answer to this
+
+0:23:08.000,0:23:13.760
+so i think it's probably uh better for
+
+0:23:10.559,0:23:13.760
+for you to go first
+
+0:23:16.320,0:23:20.320
+how do i see it or how do i hope to see
+
+0:23:18.159,0:23:20.320
+it
+
+0:23:20.720,0:23:24.880
+both i suppose let's do both yeah
+
+0:23:23.200,0:23:27.440
+realistically
+
+0:23:24.880,0:23:28.880
+yeah i mean what maybe maybe something
+
+0:23:27.440,0:23:29.919
+in the middle of it so what i really
+
+0:23:28.880,0:23:32.720
+hope is that
+
+0:23:29.919,0:23:34.000
+uh wait i have to quickly uh fight with
+
+0:23:32.720,0:23:36.480
+my
+
+0:23:34.000,0:23:37.120
+earpiece again uh what i really hope uh
+
+0:23:36.480,0:23:39.360
+happening
+
+0:23:37.120,0:23:41.200
+or hope to see happening soon rather
+
+0:23:39.360,0:23:43.679
+than later is this
+
+0:23:41.200,0:23:44.799
+this this concept of funding open source
+
+0:23:43.679,0:23:46.720
+becoming more mainstream
+
+0:23:44.799,0:23:48.640
+because right now most people who use
+
+0:23:46.720,0:23:50.720
+open source tools and
+
+0:23:48.640,0:23:52.880
+this also includes people who use open
+
+0:23:50.720,0:23:55.679
+source tools in a commercial setting
+
+0:23:52.880,0:23:56.159
+like people working a company building
+
+0:23:55.679,0:23:58.480
+stuff
+
+0:23:56.159,0:24:00.000
+up on open source tools they rarely seem
+
+0:23:58.480,0:24:02.960
+to think about
+
+0:24:00.000,0:24:04.000
+how open source gets created and this it
+
+0:24:02.960,0:24:06.159
+just does not fall
+
+0:24:04.000,0:24:08.400
+from the heavens or something like that
+
+0:24:06.159,0:24:08.880
+it gets created by people and people
+
+0:24:08.400,0:24:11.200
+need to
+
+0:24:08.880,0:24:12.799
+eat and people need to live uh and they
+
+0:24:11.200,0:24:14.559
+need a roof above their head and they
+
+0:24:12.799,0:24:15.520
+need a bed to sleep in and they also
+
+0:24:14.559,0:24:19.039
+need hardware to
+
+0:24:15.520,0:24:20.480
+develop that stuff on so um
+
+0:24:19.039,0:24:22.720
+this is something that a lot of people
+
+0:24:20.480,0:24:24.559
+are still either
+
+0:24:22.720,0:24:26.080
+ignoring or simply not thinking about
+
+0:24:24.559,0:24:29.600
+and i hope that this
+
+0:24:26.080,0:24:30.559
+may be change maybe changes in the
+
+0:24:29.600,0:24:33.520
+future and
+
+0:24:30.559,0:24:35.440
+that hopefully people also with stuff
+
+0:24:33.520,0:24:36.720
+like github sponsors and patreon and all
+
+0:24:35.440,0:24:40.000
+that becoming more visible
+
+0:24:36.720,0:24:41.679
+in the community um people will become
+
+0:24:40.000,0:24:43.760
+more aware that
+
+0:24:41.679,0:24:46.480
+in order for open source to move forward
+
+0:24:43.760,0:24:47.520
+and to for projects to actually get to a
+
+0:24:46.480,0:24:50.400
+point where they
+
+0:24:47.520,0:24:50.960
+are like at a professional level and and
+
+0:24:50.400,0:24:54.159
+and and
+
+0:24:50.960,0:24:55.679
+can it can actually stay at a certain
+
+0:24:54.159,0:24:58.720
+level of quality so that they
+
+0:24:55.679,0:25:00.159
+also can constantly be considered for
+
+0:24:58.720,0:25:02.720
+commercial work and all that
+
+0:25:00.159,0:25:03.520
+yeah that they should be funded and we
+
+0:25:02.720,0:25:06.000
+cannot just
+
+0:25:03.520,0:25:08.320
+always um hope that these people will
+
+0:25:06.000,0:25:10.960
+get hired by some company
+
+0:25:08.320,0:25:13.200
+because a maybe they do not want to get
+
+0:25:10.960,0:25:14.720
+hired by one single company because that
+
+0:25:13.200,0:25:15.840
+also puts you in weird positions that
+
+0:25:14.720,0:25:18.320
+i've been in myself
+
+0:25:15.840,0:25:19.520
+where your company says your your focus
+
+0:25:18.320,0:25:22.159
+should be this feature
+
+0:25:19.520,0:25:23.600
+but your user base says but your focus
+
+0:25:22.159,0:25:24.960
+actually should be that other feature
+
+0:25:23.600,0:25:27.279
+and then you're the maintainer in the
+
+0:25:24.960,0:25:29.440
+middle and are torn between the two and
+
+0:25:27.279,0:25:31.039
+i like okay i do not know what i should
+
+0:25:29.440,0:25:34.080
+be working on now
+
+0:25:31.039,0:25:35.840
+um so instead of this it
+
+0:25:34.080,0:25:37.600
+i think it would be nice if we could
+
+0:25:35.840,0:25:39.039
+achieve something like this situation
+
+0:25:37.600,0:25:41.279
+where open source developers can
+
+0:25:39.039,0:25:44.720
+actually live from what they do
+
+0:25:41.279,0:25:46.799
+just by them doing it so from donations
+
+0:25:44.720,0:25:48.720
+from sponsorships and all that and not
+
+0:25:46.799,0:25:50.080
+by having to rely on being employed
+
+0:25:48.720,0:25:52.960
+somewhere
+
+0:25:50.080,0:25:55.360
+or having to sell support contracts
+
+0:25:52.960,0:25:57.440
+additionally or something because
+
+0:25:55.360,0:25:59.440
+if you are already if you already need
+
+0:25:57.440,0:26:01.039
+100 of your time working on an open
+
+0:25:59.440,0:26:02.000
+source project in order to maintain it
+
+0:26:01.039,0:26:04.720
+and
+
+0:26:02.000,0:26:06.320
+improve it and all that um then you
+
+0:26:04.720,0:26:08.000
+cannot
+
+0:26:06.320,0:26:10.480
+where should you find the time to also
+
+0:26:08.000,0:26:15.120
+squeeze in paid work then right so
+
+0:26:10.480,0:26:16.640
+this is yeah i agree it is hard to
+
+0:26:15.120,0:26:18.159
+go back to that balance again as well
+
+0:26:16.640,0:26:20.559
+and i think a lot of companies that
+
+0:26:18.159,0:26:21.840
+make big money from using open source to
+
+0:26:20.559,0:26:24.240
+build their project
+
+0:26:21.840,0:26:25.120
+they don't fund a single kind of cent or
+
+0:26:24.240,0:26:27.360
+penny or
+
+0:26:25.120,0:26:28.880
+or what is it in euros is it sense i
+
+0:26:27.360,0:26:32.960
+don't know but i'm supposed to mount
+
+0:26:28.880,0:26:34.480
+it we also have sense okay okay cool um
+
+0:26:32.960,0:26:35.679
+and they don't they don't even think
+
+0:26:34.480,0:26:36.000
+about that they just think well this is
+
+0:26:35.679,0:26:38.480
+just
+
+0:26:36.000,0:26:40.000
+a product that probably a big company is
+
+0:26:38.480,0:26:41.279
+who's got loads of money like microsoft
+
+0:26:40.000,0:26:42.240
+google they can do this for free it's
+
+0:26:41.279,0:26:43.840
+fine yeah
+
+0:26:42.240,0:26:45.440
+i might see that i even get that with
+
+0:26:43.840,0:26:47.360
+octoprint really
+
+0:26:45.440,0:26:48.640
+so i i yeah i get a lot of people who
+
+0:26:47.360,0:26:51.520
+are like
+
+0:26:48.640,0:26:52.000
+yeah the team of octoprint all these
+
+0:26:51.520,0:26:54.240
+guys
+
+0:26:52.000,0:26:56.240
+and also people think octoprint is done
+
+0:26:54.240,0:26:59.520
+by i don't know how many people
+
+0:26:56.240,0:26:59.919
+20 or so all of which obviously are only
+
+0:26:59.520,0:27:04.080
+male
+
+0:26:59.919,0:27:05.520
+of course or even like a whole company
+
+0:27:04.080,0:27:09.200
+and then when people learn
+
+0:27:05.520,0:27:13.360
+um wait it's primarily me
+
+0:27:09.200,0:27:15.760
+also i'm female hi they are like what
+
+0:27:13.360,0:27:17.360
+so yeah that a lot of people just don't
+
+0:27:15.760,0:27:18.320
+think about it i think and they just
+
+0:27:17.360,0:27:20.960
+don't
+
+0:27:18.320,0:27:22.559
+try to figure out who even makes their
+
+0:27:20.960,0:27:24.559
+the the projects that they run
+
+0:27:22.559,0:27:26.159
+which is kind of ever since i found
+
+0:27:24.559,0:27:27.520
+myself in this situation i've started
+
+0:27:26.159,0:27:30.559
+actually trying to figure out who
+
+0:27:27.520,0:27:31.200
+makes the projects that i use so that's
+
+0:27:30.559,0:27:33.760
+been an
+
+0:27:31.200,0:27:35.600
+educated educational experience as well
+
+0:27:33.760,0:27:37.679
+i have to say
+
+0:27:35.600,0:27:38.799
+yeah i think i think it's the people who
+
+0:27:37.679,0:27:40.640
+do the hands-on are going to have more
+
+0:27:38.799,0:27:42.159
+of an appreciation for the other open
+
+0:27:40.640,0:27:43.360
+source projects that they use
+
+0:27:42.159,0:27:44.640
+but the people who hold the purse
+
+0:27:43.360,0:27:46.720
+strings in the company are never going
+
+0:27:44.640,0:27:49.440
+to look down at the details
+
+0:27:46.720,0:27:50.720
+of um of the products that are being
+
+0:27:49.440,0:27:54.080
+used they don't they don't
+
+0:27:50.720,0:27:55.840
+kind of care what pit package or npm
+
+0:27:54.080,0:27:57.520
+package is being used and should
+
+0:27:55.840,0:27:58.880
+should they fund you know should they
+
+0:27:57.520,0:28:00.080
+donate to those projects and i think
+
+0:27:58.880,0:28:00.799
+that's something that hopefully in the
+
+0:28:00.080,0:28:04.559
+future
+
+0:28:00.799,0:28:07.120
+can uh can change i hope so too
+
+0:28:04.559,0:28:09.039
+i think it would it would lead to quite
+
+0:28:07.120,0:28:10.640
+a boom in open source i mean
+
+0:28:09.039,0:28:12.960
+the whole internet is built on open
+
+0:28:10.640,0:28:16.480
+source uh our smartphones
+
+0:28:12.960,0:28:18.720
+are primarily built on open source
+
+0:28:16.480,0:28:20.000
+you would think that at this point there
+
+0:28:18.720,0:28:23.039
+would be
+
+0:28:20.000,0:28:25.679
+like a better business model than hoping
+
+0:28:23.039,0:28:26.799
+that people give you money out of their
+
+0:28:25.679,0:28:29.440
+out of the bottom of their hearts
+
+0:28:26.799,0:28:31.200
+basically um so and it's the people that
+
+0:28:29.440,0:28:32.080
+give the money and not the people that
+
+0:28:31.200,0:28:33.679
+are
+
+0:28:32.080,0:28:35.200
+you know the big players in the
+
+0:28:33.679,0:28:36.720
+companies that probably haven't had
+
+0:28:35.200,0:28:38.000
+money yeah i find quite interesting it's
+
+0:28:36.720,0:28:40.080
+people who are
+
+0:28:38.000,0:28:41.919
+you know in the tech and and so forth
+
+0:28:40.080,0:28:42.320
+who are sharing their hard-earned money
+
+0:28:41.919,0:28:43.919
+exactly
+
+0:28:42.320,0:28:45.919
+the people who have earning hundreds of
+
+0:28:43.919,0:28:47.600
+thousands a year they're not interested
+
+0:28:45.919,0:28:49.679
+they don't care it's kind of
+
+0:28:47.600,0:28:51.039
+below them not in a bad way but it's
+
+0:28:49.679,0:28:51.840
+just something they don't kind of care
+
+0:28:51.039,0:28:54.399
+about
+
+0:28:51.840,0:28:55.520
+um yeah yeah hopefully that's something
+
+0:28:54.399,0:28:58.799
+we can we can all
+
+0:28:55.520,0:29:00.640
+change and improve on so
+
+0:28:58.799,0:29:02.799
+oh was i pressed damn it eddie you broke
+
+0:29:00.640,0:29:02.799
+it
+
+0:29:03.039,0:29:07.600
+no nobody look never look okay i fixed
+
+0:29:04.559,0:29:09.039
+it i fixed it yeah you'll find it okay
+
+0:29:07.600,0:29:10.960
+i pressed the wrong button on the stream
+
+0:29:09.039,0:29:13.200
+deck gotta get used to my new
+
+0:29:10.960,0:29:14.880
+back to being into my new office uh
+
+0:29:13.200,0:29:16.000
+let's have a have a look um actually
+
+0:29:14.880,0:29:17.520
+before we go on to this question i just
+
+0:29:16.000,0:29:19.600
+want to say one one thing
+
+0:29:17.520,0:29:21.440
+um this is one thing that when people
+
+0:29:19.600,0:29:23.760
+say hey eddie i'd love to donate you
+
+0:29:21.440,0:29:25.840
+donate to you on github sponsors and
+
+0:29:23.760,0:29:27.039
+sometimes i ask this and or if they say
+
+0:29:25.840,0:29:28.799
+it they'll say i'm gonna donate five
+
+0:29:27.039,0:29:30.080
+dollars to you one thing i do say is i
+
+0:29:28.799,0:29:32.320
+i really appreciate that thank you so
+
+0:29:30.080,0:29:34.080
+much but if you can donate five dollars
+
+0:29:32.320,0:29:35.919
+maybe just give me one dollar and donate
+
+0:29:34.080,0:29:36.880
+the other four to four other people in
+
+0:29:35.919,0:29:40.000
+the open source
+
+0:29:36.880,0:29:42.000
+um community and i i because for me one
+
+0:29:40.000,0:29:44.159
+dollar and five dollars yes there's a
+
+0:29:42.000,0:29:46.640
+five times value difference
+
+0:29:44.159,0:29:48.080
+but i don't know i'd love other people
+
+0:29:46.640,0:29:50.080
+to get that because just that one dollar
+
+0:29:48.080,0:29:51.760
+still gives me the motivation to kind of
+
+0:29:50.080,0:29:53.600
+you know do more and keep going
+
+0:29:51.760,0:29:54.880
+even when people share things on social
+
+0:29:53.600,0:29:55.520
+they don't know about you but i love it
+
+0:29:54.880,0:29:56.960
+when
+
+0:29:55.520,0:29:58.799
+when if someone took a screenshot of
+
+0:29:56.960,0:30:00.960
+this and shared it on socials
+
+0:29:58.799,0:30:02.720
+i'm going to give it a like for sure but
+
+0:30:00.960,0:30:04.240
+if they add some value that something
+
+0:30:02.720,0:30:05.840
+they learned like if they said i love
+
+0:30:04.240,0:30:07.039
+this this tip that gina gave is
+
+0:30:05.840,0:30:08.080
+something i want to work towards or
+
+0:30:07.039,0:30:09.520
+something like that
+
+0:30:08.080,0:30:11.039
+then i'm going to retweet that because
+
+0:30:09.520,0:30:11.760
+then they're adding it's a bit like open
+
+0:30:11.039,0:30:14.960
+source
+
+0:30:11.760,0:30:16.799
+they're adding value to the conversation
+
+0:30:14.960,0:30:20.240
+no hint there everyone to screenshot
+
+0:30:16.799,0:30:20.240
+this and share something that you like
+
+0:30:21.520,0:30:25.600
+uh okay sorry so back to this so
+
+0:30:24.200,0:30:28.080
+privatization of
+
+0:30:25.600,0:30:29.360
+ai invite in open source i don't know
+
+0:30:28.080,0:30:30.559
+much about this area i'm not sure about
+
+0:30:29.360,0:30:32.960
+you
+
+0:30:30.559,0:30:34.559
+me neither sorry okay we'll have to uh
+
+0:30:32.960,0:30:35.919
+have to move on um
+
+0:30:34.559,0:30:37.760
+if anyone has any thoughts on that do
+
+0:30:35.919,0:30:38.880
+share it in the in the chat do answer
+
+0:30:37.760,0:30:40.159
+each other's questions in the chat
+
+0:30:38.880,0:30:41.679
+because it is quite interesting
+
+0:30:40.159,0:30:43.600
+and while you're there give this video a
+
+0:30:41.679,0:30:44.559
+thumbs up and subscribe if you haven't
+
+0:30:43.600,0:30:47.360
+already
+
+0:30:44.559,0:30:49.039
+and gina's details are in the
+
+0:30:47.360,0:30:51.200
+description below so you can go follow
+
+0:30:49.039,0:30:55.039
+on socials and and so forth and
+
+0:30:51.200,0:30:56.480
+find out what exciting stuff is going on
+
+0:30:55.039,0:30:57.440
+uh let's have a look what else have we
+
+0:30:56.480,0:30:59.200
+got in the chat hopefully i haven't
+
+0:30:57.440,0:31:00.480
+missed too many questions if i have copy
+
+0:30:59.200,0:31:03.600
+and paste them
+
+0:31:00.480,0:31:05.440
+again uh here's a question uh
+
+0:31:03.600,0:31:06.960
+by five ivy which is quite interesting
+
+0:31:05.440,0:31:12.080
+is quite a kind of a general
+
+0:31:06.960,0:31:15.360
+open source question uh about security
+
+0:31:12.080,0:31:17.039
+should people um find out about what
+
+0:31:15.360,0:31:18.320
+software they're using from a security
+
+0:31:17.039,0:31:20.559
+perspective
+
+0:31:18.320,0:31:22.320
+oh definitely definitely and i'm
+
+0:31:20.559,0:31:25.519
+actually kind of shocked
+
+0:31:22.320,0:31:29.120
+that so many companies aren't so
+
+0:31:25.519,0:31:31.120
+um i mean i should probably not
+
+0:31:29.120,0:31:33.679
+complain too loudly about that because i
+
+0:31:31.120,0:31:34.880
+also i mean i look at the stuff that i
+
+0:31:33.679,0:31:37.200
+use but i do not
+
+0:31:34.880,0:31:38.399
+look completely down the dependency tree
+
+0:31:37.200,0:31:41.440
+on everything right
+
+0:31:38.399,0:31:43.519
+and that can be quite long it's not as
+
+0:31:41.440,0:31:45.440
+bad in python as it is in the npm
+
+0:31:43.519,0:31:47.200
+ecosystem i gotta say
+
+0:31:45.440,0:31:48.480
+so uh whenever i look into the
+
+0:31:47.200,0:31:50.720
+dependency folders there
+
+0:31:48.480,0:31:53.120
+it's like thousands of packages that's a
+
+0:31:50.720,0:31:55.840
+bit insane but
+
+0:31:53.120,0:31:56.799
+um yeah so that is really something that
+
+0:31:55.840,0:32:00.080
+people should
+
+0:31:56.799,0:32:02.240
+be looking at and should also i mean
+
+0:32:00.080,0:32:03.440
+my personal opinion is if i am a company
+
+0:32:02.240,0:32:06.159
+and i fund my
+
+0:32:03.440,0:32:08.320
+company somehow or my build my company
+
+0:32:06.159,0:32:10.720
+somehow on open source
+
+0:32:08.320,0:32:12.799
+shouldn't i as a company have a very
+
+0:32:10.720,0:32:14.480
+very deeply ingrained interest in this
+
+0:32:12.799,0:32:18.000
+open source projects
+
+0:32:14.480,0:32:21.600
+to continue to be maintained and to
+
+0:32:18.000,0:32:24.000
+get fixes and to see security fixes
+
+0:32:21.600,0:32:24.640
+also and also maybe to see new features
+
+0:32:24.000,0:32:27.679
+and all that
+
+0:32:24.640,0:32:30.640
+because that would be my logic
+
+0:32:27.679,0:32:30.960
+where i in this position as for example
+
+0:32:30.640,0:32:34.240
+as
+
+0:32:30.960,0:32:36.799
+a cto or something um because
+
+0:32:34.240,0:32:38.880
+building my company on something that i
+
+0:32:36.799,0:32:41.039
+do not control in any way
+
+0:32:38.880,0:32:42.000
+not even in this in the tiny tiny way
+
+0:32:41.039,0:32:45.760
+where i shove
+
+0:32:42.000,0:32:49.120
+money in its general direction is a bit
+
+0:32:45.760,0:32:53.120
+i don't know not really
+
+0:32:49.120,0:32:57.360
+careful not really good planning like
+
+0:32:53.120,0:32:59.600
+very risky yeah i think a lot of people
+
+0:32:57.360,0:33:02.080
+don't worry about things until they
+
+0:32:59.600,0:33:03.679
+start something breaks or screams and
+
+0:33:02.080,0:33:05.200
+and so on i see a lot of companies don't
+
+0:33:03.679,0:33:06.159
+worry about like automated testing don't
+
+0:33:05.200,0:33:07.360
+worry about
+
+0:33:06.159,0:33:09.200
+you know penetration testing or
+
+0:33:07.360,0:33:10.000
+accessibility until something goes wrong
+
+0:33:09.200,0:33:14.559
+and by then it's
+
+0:33:10.000,0:33:14.559
+it's too late anyway yeah
+
+0:33:14.640,0:33:18.480
+the same goes for a library that no
+
+0:33:16.960,0:33:20.399
+longer gets
+
+0:33:18.480,0:33:21.840
+not no longer sees updates right i mean
+
+0:33:20.399,0:33:22.840
+we don't do not even have to look at
+
+0:33:21.840,0:33:27.200
+security for that
+
+0:33:22.840,0:33:29.679
+to be painful possibly
+
+0:33:27.200,0:33:31.600
+true um i had a question i've just
+
+0:33:29.679,0:33:33.760
+forgotten oh yes github stars so
+
+0:33:31.600,0:33:35.039
+i know people always ask me how i became
+
+0:33:33.760,0:33:36.320
+a github star and my thoughts and
+
+0:33:35.039,0:33:36.960
+they've heard me share this like 100
+
+0:33:36.320,0:33:39.360
+times
+
+0:33:36.960,0:33:40.080
+so i'd love to hear it uh you know the
+
+0:33:39.360,0:33:42.640
+story of
+
+0:33:40.080,0:33:43.840
+how it became about and i don't know
+
+0:33:42.640,0:33:45.200
+anything else you want to share on that
+
+0:33:43.840,0:33:47.120
+really
+
+0:33:45.200,0:33:48.720
+i'm not really sure if there is big that
+
+0:33:47.120,0:33:51.600
+big of a story to it because
+
+0:33:48.720,0:33:53.679
+i just suddenly found uh an invite in my
+
+0:33:51.600,0:33:55.679
+in my in my email box and was like
+
+0:33:53.679,0:33:57.200
+huh what is that some kind of new
+
+0:33:55.679,0:33:58.720
+program that i haven't heard about and
+
+0:33:57.200,0:34:00.320
+then i took a look at it and i
+
+0:33:58.720,0:34:02.480
+was like okay that sounds interesting
+
+0:34:00.320,0:34:04.480
+because um not only is it
+
+0:34:02.480,0:34:06.080
+kind of appreciation for yourself that
+
+0:34:04.480,0:34:08.240
+you know apparently what you're doing
+
+0:34:06.080,0:34:09.200
+means and matters in a way that it gets
+
+0:34:08.240,0:34:11.599
+recognized
+
+0:34:09.200,0:34:12.480
+uh by a company like github but it also
+
+0:34:11.599,0:34:15.599
+gives
+
+0:34:12.480,0:34:18.480
+me basically a back channel to people
+
+0:34:15.599,0:34:20.079
+that uh or whose product and whose
+
+0:34:18.480,0:34:22.399
+platform i daily interact with
+
+0:34:20.079,0:34:23.200
+so that has been really really nice on
+
+0:34:22.399,0:34:27.040
+both both
+
+0:34:23.200,0:34:29.599
+both sides and um yeah so when i
+
+0:34:27.040,0:34:30.560
+when i got the invite i was like oh that
+
+0:34:29.599,0:34:32.879
+would be awesome
+
+0:34:30.560,0:34:34.480
+and then i actually got the confirmation
+
+0:34:32.879,0:34:38.159
+and the day the confirmation arrived
+
+0:34:34.480,0:34:38.159
+that i was now a github star i was like
+
+0:34:38.960,0:34:43.440
+i'm still waiting for my care package
+
+0:34:40.560,0:34:45.520
+because some stuff got delayed but yeah
+
+0:34:43.440,0:34:47.520
+but it's okay i mean
+
+0:34:45.520,0:34:49.280
+things go as they are you can watch a
+
+0:34:47.520,0:34:50.800
+youtube video on me unboxing mine if you
+
+0:34:49.280,0:34:53.919
+want i mean that i thought that was
+
+0:34:50.800,0:34:55.679
+yeah i i i i was i was actually thinking
+
+0:34:53.919,0:34:57.280
+about that but then figured uh maybe i
+
+0:34:55.679,0:34:58.800
+will just maybe that will make the
+
+0:34:57.280,0:35:00.720
+weight harder you know you will that's
+
+0:34:58.800,0:35:03.359
+what i was saying
+
+0:35:00.720,0:35:04.480
+so so i'm i'm going to just wait a bit
+
+0:35:03.359,0:35:07.119
+uh longer
+
+0:35:04.480,0:35:08.560
+on whenever it arrives i'm also still
+
+0:35:07.119,0:35:12.160
+waiting for my um
+
+0:35:08.560,0:35:14.800
+github community star award thing what
+
+0:35:12.160,0:35:16.079
+okay actually no i'm maybe i'm waiting
+
+0:35:14.800,0:35:17.760
+for that one as well
+
+0:35:16.079,0:35:19.040
+i think you you probably are as well i
+
+0:35:17.760,0:35:20.160
+think they are getting printed at the
+
+0:35:19.040,0:35:22.640
+same time or something
+
+0:35:20.160,0:35:25.040
+yes yeah that's the the 3d printing of
+
+0:35:22.640,0:35:26.880
+our green bars right
+
+0:35:25.040,0:35:28.880
+i know the other one the one that we got
+
+0:35:26.880,0:35:30.400
+at the norway
+
+0:35:28.880,0:35:32.079
+there's so many so much swag they're
+
+0:35:30.400,0:35:33.280
+sending us i lose track every every day
+
+0:35:32.079,0:35:37.040
+i wake up
+
+0:35:33.280,0:35:38.880
+has arrived i only have got two so far
+
+0:35:37.040,0:35:40.880
+but
+
+0:35:38.880,0:35:42.800
+right but they were awesome i mean i
+
+0:35:40.880,0:35:45.520
+mean the light is from from from them
+
+0:35:42.800,0:35:46.480
+and their mic is from them and the pop
+
+0:35:45.520,0:35:48.880
+filters from them
+
+0:35:46.480,0:35:49.839
+so sure and the water bottle you got the
+
+0:35:48.880,0:35:51.040
+water bottle right
+
+0:35:49.839,0:35:53.599
+was that the water i also got the water
+
+0:35:51.040,0:35:56.839
+bottle he did so so i gotta say i
+
+0:35:53.599,0:35:58.160
+i really love mine that i already have
+
+0:35:56.839,0:36:00.079
+so
+
+0:35:58.160,0:36:01.680
+awesome but i have it and i i like i
+
+0:36:00.079,0:36:03.359
+like having stuff that is awesome
+
+0:36:01.680,0:36:05.040
+yeah and then you're hanging out with
+
+0:36:03.359,0:36:07.119
+the other github stars and being in the
+
+0:36:05.040,0:36:08.720
+in the github slack and nova conference
+
+0:36:07.119,0:36:10.720
+and help each other on the slack that's
+
+0:36:08.720,0:36:12.720
+also really nice i found so like
+
+0:36:10.720,0:36:15.200
+i have this problem does someone have an
+
+0:36:12.720,0:36:17.760
+idea yeah try this oh it works thank you
+
+0:36:15.200,0:36:19.040
+so this is really awesome exactly and i
+
+0:36:17.760,0:36:19.359
+know i wouldn't have met you really
+
+0:36:19.040,0:36:22.000
+because
+
+0:36:19.359,0:36:24.960
+i don't i don't i'm not in the the 3d
+
+0:36:22.000,0:36:26.400
+printing space so for me i wouldn't
+
+0:36:24.960,0:36:27.440
+you have discovered you and same with
+
+0:36:26.400,0:36:28.800
+the other people we've got you know
+
+0:36:27.440,0:36:29.599
+santos in in the chat actually i
+
+0:36:28.800,0:36:31.119
+probably
+
+0:36:29.599,0:36:32.400
+would i knew about santosh i think
+
+0:36:31.119,0:36:33.119
+before because of the whole angular
+
+0:36:32.400,0:36:34.880
+space
+
+0:36:33.119,0:36:37.680
+um so yeah it has worked really well and
+
+0:36:34.880,0:36:40.480
+hopefully we can encourage people to
+
+0:36:37.680,0:36:42.240
+um you know help more in the community
+
+0:36:40.480,0:36:43.520
+so they can potentially become a github
+
+0:36:42.240,0:36:45.680
+star in the future
+
+0:36:43.520,0:36:47.040
+i think a lot of people think you've got
+
+0:36:45.680,0:36:49.680
+to promote
+
+0:36:47.040,0:36:50.480
+github i know i do but i don't think you
+
+0:36:49.680,0:36:52.880
+or others do
+
+0:36:50.480,0:36:54.640
+you use github but you don't you don't
+
+0:36:52.880,0:36:56.160
+promote it it's not what you do
+
+0:36:54.640,0:36:57.920
+and i think other people then hopefully
+
+0:36:56.160,0:36:59.440
+can be made aware that it's just adding
+
+0:36:57.920,0:37:00.079
+value i think to the community and open
+
+0:36:59.440,0:37:01.920
+source
+
+0:37:00.079,0:37:03.359
+which is what puts you on github's radar
+
+0:37:01.920,0:37:06.079
+to become a
+
+0:37:03.359,0:37:06.640
+potentially a github star at least that
+
+0:37:06.079,0:37:09.839
+is my
+
+0:37:06.640,0:37:11.440
+impression definitely as well i mean i
+
+0:37:09.839,0:37:13.200
+do obviously when i use
+
+0:37:11.440,0:37:14.720
+tooling provided by github for example
+
+0:37:13.200,0:37:16.880
+when i do stuff with github actions or
+
+0:37:14.720,0:37:18.640
+so i i talk about it because
+
+0:37:16.880,0:37:20.160
+for me personally it's the right choice
+
+0:37:18.640,0:37:22.720
+and i just want to help people
+
+0:37:20.160,0:37:24.560
+utilize it as well but that for me this
+
+0:37:22.720,0:37:25.359
+does not qualify as promoting that's
+
+0:37:24.560,0:37:27.760
+more like
+
+0:37:25.359,0:37:28.560
+hey for me this worked maybe it works
+
+0:37:27.760,0:37:33.040
+for you as well
+
+0:37:28.560,0:37:33.040
+if not then no problem so
+
+0:37:33.839,0:37:36.480
+that makes sense okay we've got some
+
+0:37:34.960,0:37:38.079
+more questions coming in so i'm getting
+
+0:37:36.480,0:37:38.560
+a bit behind so i want to bring these up
+
+0:37:38.079,0:37:40.560
+so
+
+0:37:38.560,0:37:42.640
+i'm not contributing to bigger projects
+
+0:37:40.560,0:37:43.599
+and if i see myself as a potential
+
+0:37:42.640,0:37:44.960
+employee
+
+0:37:43.599,0:37:47.119
+don't think any recruiter would be
+
+0:37:44.960,0:37:51.839
+impressed by any kind of my quality of
+
+0:37:47.119,0:37:54.320
+contributions any tips
+
+0:37:51.839,0:37:55.599
+a recruiter that actually looks at open
+
+0:37:54.320,0:37:58.240
+source contributions i
+
+0:37:55.599,0:38:00.079
+think will not really care about whether
+
+0:37:58.240,0:38:01.599
+the project is big but rather whether
+
+0:38:00.079,0:38:04.560
+the contribution
+
+0:38:01.599,0:38:06.640
+makes sense and adds value so i would
+
+0:38:04.560,0:38:08.480
+not worry about that too much personally
+
+0:38:06.640,0:38:09.920
+i mean i would do that if i was a
+
+0:38:08.480,0:38:12.320
+recruiter i would not look at
+
+0:38:09.920,0:38:14.079
+did this person contribute to i don't
+
+0:38:12.320,0:38:16.640
+know this big note library
+
+0:38:14.079,0:38:19.520
+or did they maybe just create a single
+
+0:38:16.640,0:38:22.640
+tiny tool that solves one specific
+
+0:38:19.520,0:38:25.280
+tiny problem but solves it well
+
+0:38:22.640,0:38:27.599
+or maybe they contributed a bug fix to a
+
+0:38:25.280,0:38:28.079
+tiny tool that's also problem so i think
+
+0:38:27.599,0:38:32.160
+this is
+
+0:38:28.079,0:38:35.280
+it's it's it's more important i think to
+
+0:38:32.160,0:38:37.839
+contribute value than what project you
+
+0:38:35.280,0:38:39.359
+contribute that value to
+
+0:38:37.839,0:38:41.359
+at least i hope this is also how
+
+0:38:39.359,0:38:43.440
+recruiters see it
+
+0:38:41.359,0:38:44.800
+um if they don't personally i would not
+
+0:38:43.440,0:38:46.720
+want to work for them
+
+0:38:44.800,0:38:48.320
+but yeah true i think a lot of
+
+0:38:46.720,0:38:51.119
+recruiters just look at
+
+0:38:48.320,0:38:51.599
+is your profile busy lots of green but
+
+0:38:51.119,0:38:54.800
+they don't
+
+0:38:51.599,0:38:56.560
+yeah deeper until i do because i do
+
+0:38:54.800,0:38:57.599
+recommend to people to have an active
+
+0:38:56.560,0:38:59.520
+profile with
+
+0:38:57.599,0:39:00.720
+you know a fair amount of green because
+
+0:38:59.520,0:39:02.320
+the first impression
+
+0:39:00.720,0:39:03.599
+and then hopefully later on a hiring
+
+0:39:02.320,0:39:04.000
+manager is going to dig deeper and
+
+0:39:03.599,0:39:07.119
+actually
+
+0:39:04.000,0:39:09.359
+look at the the value added but yeah i
+
+0:39:07.119,0:39:11.359
+don't think a recruiter is ever going to
+
+0:39:09.359,0:39:12.960
+dig deeper or understand what a good
+
+0:39:11.359,0:39:14.800
+issue is or what a good pull request is
+
+0:39:12.960,0:39:18.000
+or anything like that
+
+0:39:14.800,0:39:19.599
+um so yeah it is
+
+0:39:18.000,0:39:21.280
+it is a challenge but i think a lot of
+
+0:39:19.599,0:39:21.599
+them are becoming more aware of it
+
+0:39:21.280,0:39:23.359
+though
+
+0:39:21.599,0:39:24.720
+as in hopefully they'll educate
+
+0:39:23.359,0:39:28.400
+themselves a bit to at least
+
+0:39:24.720,0:39:30.800
+look a little bit further into it
+
+0:39:28.400,0:39:31.680
+i would hope so because i mean getting a
+
+0:39:30.800,0:39:34.800
+really green
+
+0:39:31.680,0:39:38.240
+guitar profile is like uh
+
+0:39:34.800,0:39:39.760
+one cron job away and i mean you can
+
+0:39:38.240,0:39:42.800
+completely automate that
+
+0:39:39.760,0:39:44.079
+so it's it's it says absolutely nothing
+
+0:39:42.800,0:39:46.560
+as long as you do not
+
+0:39:44.079,0:39:47.280
+actually dig into what these green dots
+
+0:39:46.560,0:39:50.000
+consist of
+
+0:39:47.280,0:39:51.599
+and in that moment yeah true but i don't
+
+0:39:50.000,0:39:52.960
+recommend anyone automating it because
+
+0:39:51.599,0:39:53.920
+for me when i'm reviewing someone's
+
+0:39:52.960,0:39:56.400
+profile yes
+
+0:39:53.920,0:39:57.680
+if it's more green i think it looks more
+
+0:39:56.400,0:39:59.119
+impressive i'm going to dig deeper but
+
+0:39:57.680,0:40:00.240
+as soon as i find out something's
+
+0:39:59.119,0:40:03.359
+automated like that
+
+0:40:00.240,0:40:05.359
+i discard their entire application
+
+0:40:03.359,0:40:07.200
+i literally just yeah i would also not
+
+0:40:05.359,0:40:09.040
+recommend i mean what you can do
+
+0:40:07.200,0:40:10.560
+you can do that for fun if you just want
+
+0:40:09.040,0:40:13.520
+to play around with it right
+
+0:40:10.560,0:40:14.800
+on a throwaway profile if you just want
+
+0:40:13.520,0:40:18.000
+to figure out how it works
+
+0:40:14.800,0:40:19.680
+like for experimenting yeah
+
+0:40:18.000,0:40:21.119
+but in general no i would not do that on
+
+0:40:19.680,0:40:25.599
+my profile
+
+0:40:21.119,0:40:28.880
+me neither and i would also not i mean
+
+0:40:25.599,0:40:30.400
+i would also refrain from doing drive-by
+
+0:40:28.880,0:40:32.240
+pull requests or something like that
+
+0:40:30.400,0:40:34.560
+just to have activity
+
+0:40:32.240,0:40:36.240
+right because this is also if you just
+
+0:40:34.560,0:40:38.400
+fix a typo somewhere which wasn't
+
+0:40:36.240,0:40:41.280
+actually a typo or
+
+0:40:38.400,0:40:43.520
+so like the typical commits that you get
+
+0:40:41.280,0:40:45.680
+during hacktoberfest when people try to
+
+0:40:43.520,0:40:46.400
+pad their profiles up so that they can
+
+0:40:45.680,0:40:48.079
+reach these
+
+0:40:46.400,0:40:49.520
+so these kind of commits they are not
+
+0:40:48.079,0:40:51.680
+really actually
+
+0:40:49.520,0:40:52.640
+those that are not actually adding value
+
+0:40:51.680,0:40:55.200
+you should not
+
+0:40:52.640,0:40:57.680
+try to do them i think just to make your
+
+0:40:55.200,0:41:00.960
+profile more green you should just
+
+0:40:57.680,0:41:01.359
+add value be yourself and if it's a fit
+
+0:41:00.960,0:41:02.800
+if
+
+0:41:01.359,0:41:04.480
+it's a fit and if it's not a fit and
+
+0:41:02.800,0:41:06.880
+it's not a fit and i don't think it
+
+0:41:04.480,0:41:08.880
+makes sense to try to be
+
+0:41:06.880,0:41:10.400
+something or someone you're not just in
+
+0:41:08.880,0:41:12.000
+order to get hired in some position
+
+0:41:10.400,0:41:14.560
+where you then will hate it because they
+
+0:41:12.000,0:41:17.599
+assumed you were someone else and also
+
+0:41:14.560,0:41:19.599
+you should not force yourself to work or
+
+0:41:17.599,0:41:20.000
+try to work on big projects which are
+
+0:41:19.599,0:41:22.319
+already
+
+0:41:20.000,0:41:24.079
+drowning in contributors anyhow probably
+
+0:41:22.319,0:41:25.760
+because they are way more high profile
+
+0:41:24.079,0:41:28.319
+and people think that they can pet
+
+0:41:25.760,0:41:29.440
+maybe also their cb with that and
+
+0:41:28.319,0:41:31.040
+instead
+
+0:41:29.440,0:41:34.079
+there are a lot of low hanging fruits
+
+0:41:31.040,0:41:35.440
+all over the the open source community
+
+0:41:34.079,0:41:37.119
+contributing to projects that
+
+0:41:35.440,0:41:39.920
+desperately need help
+
+0:41:37.119,0:41:41.440
+and would probably love help in any
+
+0:41:39.920,0:41:44.000
+shape or form and
+
+0:41:41.440,0:41:44.560
+yeah just tackling that kind of stuff
+
+0:41:44.000,0:41:48.000
+would
+
+0:41:44.560,0:41:51.280
+also help you to have a busy profile and
+
+0:41:48.000,0:41:54.960
+learn and discover new technologies
+
+0:41:51.280,0:41:56.880
+and find new friends as well a lot of
+
+0:41:54.960,0:41:58.880
+i met quite a number of friends during
+
+0:41:56.880,0:42:02.319
+open source work
+
+0:41:58.880,0:42:04.480
+and yeah would not make you
+
+0:42:02.319,0:42:05.599
+feel so stressed all the time yeah i
+
+0:42:04.480,0:42:06.960
+agree i think a lot of those bigger
+
+0:42:05.599,0:42:08.960
+projects people want to put on their cv
+
+0:42:06.960,0:42:09.520
+i contributed to react or whatever they
+
+0:42:08.960,0:42:11.760
+move so
+
+0:42:09.520,0:42:12.640
+fast that you get disheartened a lot as
+
+0:42:11.760,0:42:14.400
+your pr just
+
+0:42:12.640,0:42:15.760
+ends up with lots of conflicts and you
+
+0:42:14.400,0:42:16.720
+know you're just kind of you're you're a
+
+0:42:15.760,0:42:18.160
+smaller
+
+0:42:16.720,0:42:19.920
+what's the expression you're you're a
+
+0:42:18.160,0:42:21.119
+smaller kind of
+
+0:42:19.920,0:42:23.119
+piece of the puzzle i don't know what
+
+0:42:21.119,0:42:24.960
+the expression is commit
+
+0:42:23.119,0:42:26.800
+no yeah i think there's nothing to do
+
+0:42:24.960,0:42:28.240
+with cogs like you're a smaller
+
+0:42:26.800,0:42:30.079
+cog in the wheel or something i don't
+
+0:42:28.240,0:42:32.240
+know but like it's you you're you know
+
+0:42:30.079,0:42:33.440
+yeah yeah yeah requests going on that
+
+0:42:32.240,0:42:36.319
+yours is just
+
+0:42:33.440,0:42:38.240
+you know if you contribute to a project
+
+0:42:36.319,0:42:40.480
+like you said that's moving slower
+
+0:42:38.240,0:42:41.680
+and that welcomes contributions more and
+
+0:42:40.480,0:42:43.280
+maybe getting a pull request
+
+0:42:41.680,0:42:44.400
+like three pull requests a week then
+
+0:42:43.280,0:42:46.079
+yours are gonna get more attention
+
+0:42:44.400,0:42:47.440
+whereas when you contribute to a bigger
+
+0:42:46.079,0:42:50.400
+project that's maybe getting
+
+0:42:47.440,0:42:51.680
+30 pull requests a day then yours is
+
+0:42:50.400,0:42:53.200
+going to disappear very quickly maybe
+
+0:42:51.680,0:42:55.119
+not they get the attention you won't
+
+0:42:53.200,0:42:58.880
+learn as much a network as much as
+
+0:42:55.119,0:43:00.880
+you need exactly so it's true
+
+0:42:58.880,0:43:02.720
+so um i'm not sure if we can we can if
+
+0:43:00.880,0:43:05.599
+this is a question or not
+
+0:43:02.720,0:43:07.040
+um the dependency chart of everything as
+
+0:43:05.599,0:43:07.839
+we mentioned yeah just goes deeper and
+
+0:43:07.040,0:43:10.240
+deeper
+
+0:43:07.839,0:43:13.680
+and i think uh as juno was saying you
+
+0:43:10.240,0:43:15.839
+cannot go all to the nth level of it
+
+0:43:13.680,0:43:16.800
+i think it's just you would like to
+
+0:43:15.839,0:43:18.800
+think that you trust
+
+0:43:16.800,0:43:20.560
+the projects you include and they trust
+
+0:43:18.800,0:43:22.079
+the projects they include i'm guessing
+
+0:43:20.560,0:43:24.800
+and so on i'm not sure
+
+0:43:22.079,0:43:26.800
+if that's a safe bet or not but it's
+
+0:43:24.800,0:43:28.800
+probably not
+
+0:43:26.800,0:43:30.000
+um but let's just assume it is so we
+
+0:43:28.800,0:43:31.520
+cannot sleep at night
+
+0:43:30.000,0:43:32.960
+that's true and i think the github is
+
+0:43:31.520,0:43:34.240
+doing a lot of great work with security
+
+0:43:32.960,0:43:38.240
+and there are other platforms
+
+0:43:34.240,0:43:39.520
+uh as well yeah definitely
+
+0:43:38.240,0:43:41.119
+uh this is an interesting question
+
+0:43:39.520,0:43:42.720
+someone asked me this the other day and
+
+0:43:41.119,0:43:46.079
+it definitely took me back
+
+0:43:42.720,0:43:48.800
+so gina what was your first open source
+
+0:43:46.079,0:43:48.800
+contribution
+
+0:43:49.200,0:43:53.680
+i think the official first open source
+
+0:43:51.359,0:43:54.240
+contribution to someone else's project
+
+0:43:53.680,0:43:57.599
+was
+
+0:43:54.240,0:43:59.520
+um i was quite have acquired
+
+0:43:57.599,0:44:00.800
+a crime regular now that that's the word
+
+0:43:59.520,0:44:03.680
+that i was looking for
+
+0:44:00.800,0:44:04.720
+was a quite regular um contributor back
+
+0:44:03.680,0:44:06.720
+in the day
+
+0:44:04.720,0:44:08.079
+at the dockerwiki project which is like
+
+0:44:06.720,0:44:10.800
+a wiki engine php
+
+0:44:08.079,0:44:13.119
+based um this is also how i met one of
+
+0:44:10.800,0:44:15.119
+my best friends
+
+0:44:13.119,0:44:16.480
+who is the who's who's the maintainer of
+
+0:44:15.119,0:44:19.040
+the project and
+
+0:44:16.480,0:44:19.599
+andreas from whom i learned a lot um
+
+0:44:19.040,0:44:21.359
+about
+
+0:44:19.599,0:44:23.040
+maintaining open source projects and and
+
+0:44:21.359,0:44:23.680
+also yeah i got to meet a couple of
+
+0:44:23.040,0:44:26.960
+times
+
+0:44:23.680,0:44:28.880
+so um that was yeah one of the
+
+0:44:26.960,0:44:30.880
+i think i first started writing plug-ins
+
+0:44:28.880,0:44:34.640
+for that and then i started pulling
+
+0:44:30.880,0:44:36.880
+i i wrote my first ever fix for some bug
+
+0:44:34.640,0:44:39.920
+in the engine itself and
+
+0:44:36.880,0:44:41.599
+i remember that i was quite um yeah
+
+0:44:39.920,0:44:42.480
+thrilled about having the patch get
+
+0:44:41.599,0:44:46.079
+accepted
+
+0:44:42.480,0:44:47.040
+and yeah so that was fun um and before
+
+0:44:46.079,0:44:49.920
+that i actually
+
+0:44:47.040,0:44:52.000
+tried i tried to build something like
+
+0:44:49.920,0:44:53.839
+dokobiki myself at first before i
+
+0:44:52.000,0:44:55.119
+came across toku wiki and that was
+
+0:44:53.839,0:44:56.480
+probably my first
+
+0:44:55.119,0:44:59.119
+actual open source project with a
+
+0:44:56.480,0:45:01.520
+license and all that and even before
+
+0:44:59.119,0:45:04.400
+that so that was like when i was back
+
+0:45:01.520,0:45:07.520
+when i was still back in school around
+
+0:45:04.400,0:45:10.720
+yeah the late 90s and the early 2000s
+
+0:45:07.520,0:45:11.680
+so late late late years at school i i
+
+0:45:10.720,0:45:13.440
+actually
+
+0:45:11.680,0:45:14.960
+wrote some stuff that these days i would
+
+0:45:13.440,0:45:16.560
+consider open source but
+
+0:45:14.960,0:45:18.880
+they didn't actually have an open source
+
+0:45:16.560,0:45:21.920
+license so technically they weren't
+
+0:45:18.880,0:45:24.560
+um but yeah so that
+
+0:45:21.920,0:45:27.520
+that is a long time ago in a galaxy far
+
+0:45:24.560,0:45:27.520
+far away and all of that
+
+0:45:28.560,0:45:31.760
+i think we covered this but let me just
+
+0:45:29.839,0:45:33.760
+bring it up from five iv
+
+0:45:31.760,0:45:36.480
+is it bad if a profile is more green due
+
+0:45:33.760,0:45:38.000
+to ci practices of multiple branches for
+
+0:45:36.480,0:45:39.760
+every feature
+
+0:45:38.000,0:45:41.920
+my understanding is only the default
+
+0:45:39.760,0:45:44.079
+branches count
+
+0:45:41.920,0:45:46.000
+yeah which is actually something which
+
+0:45:44.079,0:45:47.760
+is for me quite upsetting because
+
+0:45:46.000,0:45:49.599
+octoprint's default branch is the stable
+
+0:45:47.760,0:45:53.200
+branch which only sees merges when
+
+0:45:49.599,0:45:55.280
+i put out a release so my my own github
+
+0:45:53.200,0:45:56.160
+profile is fairly misleading most of the
+
+0:45:55.280,0:45:57.440
+time
+
+0:45:56.160,0:46:00.000
+because it looks like i'm not doing
+
+0:45:57.440,0:46:02.560
+anything for weeks and when in fact
+
+0:46:00.000,0:46:04.160
+i am just not on the main branch yeah
+
+0:46:02.560,0:46:05.040
+yeah it jumps then it gets filled up
+
+0:46:04.160,0:46:08.480
+then off
+
+0:46:05.040,0:46:10.319
+yeah yeah but yeah so
+
+0:46:08.480,0:46:12.240
+you you cannot you cannot just jump
+
+0:46:10.319,0:46:14.319
+around between branches and do stuff it
+
+0:46:12.240,0:46:17.440
+only only stuff to the main branch
+
+0:46:14.319,0:46:20.000
+actually counts for that thing so
+
+0:46:17.440,0:46:20.560
+you can do whatever you want with your
+
+0:46:20.000,0:46:22.480
+ci
+
+0:46:20.560,0:46:24.240
+on different branches as long as it's
+
+0:46:22.480,0:46:26.400
+not the main branch it will not look bad
+
+0:46:24.240,0:46:28.560
+i think
+
+0:46:26.400,0:46:29.920
+true yeah exactly and i think um some
+
+0:46:28.560,0:46:33.359
+people get upset when they
+
+0:46:29.920,0:46:34.960
+um they do a feature that maybe has 10
+
+0:46:33.359,0:46:38.480
+commits but when it gets merged into the
+
+0:46:34.960,0:46:38.480
+default branch it gets squashed
+
+0:46:40.880,0:46:45.200
+people that want clean history right it
+
+0:46:43.440,0:46:47.040
+is important too
+
+0:46:45.200,0:46:49.040
+it is important i mean i sometimes do
+
+0:46:47.040,0:46:50.480
+this as well i guess i gotta admit when
+
+0:46:49.040,0:46:52.960
+it's like
+
+0:46:50.480,0:46:54.240
+when when each commit is not actually
+
+0:46:52.960,0:46:56.800
+yes i know what you're gonna say
+
+0:46:54.240,0:46:58.880
+telling a whole story but it's more like
+
+0:46:56.800,0:47:00.800
+uh they they do not work
+
+0:46:58.880,0:47:01.920
+separate from each other and you have to
+
+0:47:00.800,0:47:04.240
+actually com
+
+0:47:01.920,0:47:06.480
+apply them all or none at all in order
+
+0:47:04.240,0:47:10.240
+for the code to still stay
+
+0:47:06.480,0:47:12.400
+sensible yeah
+
+0:47:10.240,0:47:13.440
+uh what else so someone's asking about
+
+0:47:12.400,0:47:16.079
+github actions
+
+0:47:13.440,0:47:18.000
+i don't know much any resources well do
+
+0:47:16.079,0:47:19.359
+you use github actions for your project
+
+0:47:18.000,0:47:22.240
+you know do you use something else
+
+0:47:19.359,0:47:22.640
+a ton a ton i just actually rewrote
+
+0:47:22.240,0:47:24.400
+about
+
+0:47:22.640,0:47:26.640
+a bot that i use for helping me with the
+
+0:47:24.400,0:47:27.200
+issue tracker and made it use github
+
+0:47:26.640,0:47:30.079
+actions
+
+0:47:27.200,0:47:32.079
+and i wrote my first actions in in in
+
+0:47:30.079,0:47:35.280
+node as well for that
+
+0:47:32.079,0:47:37.359
+and yeah it's it's i gotta say i i
+
+0:47:35.280,0:47:38.000
+currently consider it github actions as
+
+0:47:37.359,0:47:39.440
+the hammer to
+
+0:47:38.000,0:47:41.119
+every single nail that i encounter
+
+0:47:39.440,0:47:43.839
+regarding automation um
+
+0:47:41.119,0:47:45.599
+in in the project like labeling of prs
+
+0:47:43.839,0:47:46.160
+automatically based on what files are
+
+0:47:45.599,0:47:49.359
+touched
+
+0:47:46.160,0:47:52.400
+and uh yeah i do stuff like that
+
+0:47:49.359,0:47:55.359
+i do tracking of a labeling of issues
+
+0:47:52.400,0:47:59.040
+based on certain keywords they contain
+
+0:47:55.359,0:48:01.280
+i um also validate uh issues
+
+0:47:59.040,0:48:03.200
+like have people actually included the
+
+0:48:01.280,0:48:04.720
+bug tracking template for example with a
+
+0:48:03.200,0:48:06.720
+github action
+
+0:48:04.720,0:48:08.480
+i also close them if they don't contain
+
+0:48:06.720,0:48:10.800
+the the issue template after
+
+0:48:08.480,0:48:11.920
+14 days with the github action done
+
+0:48:10.800,0:48:14.800
+stale
+
+0:48:11.920,0:48:16.160
+handling and all that and excessive
+
+0:48:14.800,0:48:20.079
+testing set up
+
+0:48:16.160,0:48:22.079
+and i have this whole page build set
+
+0:48:20.079,0:48:23.760
+up for the plugin repository which is a
+
+0:48:22.079,0:48:26.160
+static page powered by jekyll which
+
+0:48:23.760,0:48:26.880
+pulls in dynamic data from the statistic
+
+0:48:26.160,0:48:30.079
+page
+
+0:48:26.880,0:48:33.200
+and and all that and then builds it in
+
+0:48:30.079,0:48:34.640
+all while the github actions so i can
+
+0:48:33.200,0:48:35.839
+only recommend getting into that stuff
+
+0:48:34.640,0:48:38.240
+it's fun
+
+0:48:35.839,0:48:40.559
+like really fun like i enjoy when i i
+
+0:48:38.240,0:48:43.040
+get to write a new action kind of fun
+
+0:48:40.559,0:48:43.760
+it is it is really really awesome uh it
+
+0:48:43.040,0:48:45.280
+is just
+
+0:48:43.760,0:48:46.960
+because you can write it it just starts
+
+0:48:45.280,0:48:48.079
+off with there's so many let me start
+
+0:48:46.960,0:48:49.119
+again i've said try to start three
+
+0:48:48.079,0:48:50.720
+different sentences
+
+0:48:49.119,0:48:52.000
+um there's just so many actions in the
+
+0:48:50.720,0:48:52.400
+marketplace that you can use of just
+
+0:48:52.000,0:48:54.240
+some
+
+0:48:52.400,0:48:56.160
+basic yaml lines and then if you want to
+
+0:48:54.240,0:48:57.440
+customize it further then you can use
+
+0:48:56.160,0:48:59.119
+you know so many different languages
+
+0:48:57.440,0:49:00.400
+like you said node or i think python's
+
+0:48:59.119,0:49:01.680
+all supported i'm not sure but there are
+
+0:49:00.400,0:49:04.000
+various languages that you can use
+
+0:49:01.680,0:49:05.520
+you can use node.docker like you can
+
+0:49:04.000,0:49:08.160
+fire up a dock and then you can use
+
+0:49:05.520,0:49:09.680
+use whatever uh what i can also
+
+0:49:08.160,0:49:11.680
+recommend if someone is
+
+0:49:09.680,0:49:12.960
+trying to get into github actions and is
+
+0:49:11.680,0:49:15.280
+maybe afraid a bit of
+
+0:49:12.960,0:49:16.400
+of getting their feet wet completely
+
+0:49:15.280,0:49:18.960
+already with
+
+0:49:16.400,0:49:20.559
+note or docker based stuff there is this
+
+0:49:18.960,0:49:23.040
+fancy little
+
+0:49:20.559,0:49:24.160
+kind of tool kit which is an action
+
+0:49:23.040,0:49:27.599
+itself which
+
+0:49:24.160,0:49:30.079
+is action slash github dash script
+
+0:49:27.599,0:49:32.160
+and that allows you to just throw a
+
+0:49:30.079,0:49:32.720
+bunch of javascript into the body of the
+
+0:49:32.160,0:49:35.520
+action
+
+0:49:32.720,0:49:37.680
+which then gets executed and i use that
+
+0:49:35.520,0:49:39.760
+for some labeling actions and that's
+
+0:49:37.680,0:49:40.720
+like you you completely write that in
+
+0:49:39.760,0:49:42.559
+yaml
+
+0:49:40.720,0:49:44.960
+or rather i mean you still write
+
+0:49:42.559,0:49:48.000
+javascript but you dump it in the yaml
+
+0:49:44.960,0:49:49.920
+and it's just if you just need a one-off
+
+0:49:48.000,0:49:51.359
+kind of thing and you cannot really find
+
+0:49:49.920,0:49:53.040
+something on a marketplace that fits the
+
+0:49:51.359,0:49:54.800
+bill and it's really easy to
+
+0:49:53.040,0:49:57.280
+because it's just like two queries
+
+0:49:54.800,0:49:59.920
+against the github api and then maybe
+
+0:49:57.280,0:50:00.800
+some logic in between or so then this is
+
+0:49:59.920,0:50:02.960
+like
+
+0:50:00.800,0:50:04.640
+i i constantly use this for for for
+
+0:50:02.960,0:50:07.040
+stuff like that all the time and it's
+
+0:50:04.640,0:50:08.480
+it's really easy to prototype things
+
+0:50:07.040,0:50:10.319
+with that as well if you
+
+0:50:08.480,0:50:12.079
+have an idea how something might work
+
+0:50:10.319,0:50:14.720
+and maybe we'll put it in a proper
+
+0:50:12.079,0:50:16.000
+action after for others to reuse but you
+
+0:50:14.720,0:50:17.680
+first want to test if
+
+0:50:16.000,0:50:20.640
+if the idea in general works then this
+
+0:50:17.680,0:50:20.640
+is also great for that
+
+0:50:21.040,0:50:24.559
+yeah it's uh just uh someone's writing
+
+0:50:23.440,0:50:25.920
+in the chat that you can use any
+
+0:50:24.559,0:50:26.400
+language or docker container exactly
+
+0:50:25.920,0:50:28.319
+it's just
+
+0:50:26.400,0:50:29.599
+so flexible you can trigger off any
+
+0:50:28.319,0:50:31.359
+event in github
+
+0:50:29.599,0:50:32.640
+and there's just so many things you can
+
+0:50:31.359,0:50:34.240
+do it's it is
+
+0:50:32.640,0:50:35.680
+so much fun i think people do games with
+
+0:50:34.240,0:50:37.200
+github action so in their read me they
+
+0:50:35.680,0:50:40.240
+have like nuts and questions
+
+0:50:37.200,0:50:40.960
+and and then oh my god okay it raises an
+
+0:50:40.240,0:50:42.800
+issue
+
+0:50:40.960,0:50:44.800
+and then the issue will then update that
+
+0:50:42.800,0:50:46.240
+the board in the readme and then you
+
+0:50:44.800,0:50:47.599
+click on it and so forth it's quite
+
+0:50:46.240,0:50:50.319
+quite funny to see
+
+0:50:47.599,0:50:50.720
+the things that have people have done um
+
+0:50:50.319,0:50:52.880
+i think
+
+0:50:50.720,0:50:54.000
+i even see mine sweep which is really
+
+0:50:52.880,0:50:56.160
+important oh my god
+
+0:50:54.000,0:50:57.920
+i really need to up my readme game i
+
+0:50:56.160,0:51:00.079
+think i currently just have a basic list
+
+0:50:57.920,0:51:01.920
+of hi i'm gina and i'm doing this
+
+0:51:00.079,0:51:04.559
+thank you for your for your attention
+
+0:51:01.920,0:51:06.880
+bye-bye um
+
+0:51:04.559,0:51:08.480
+yeah yeah i think the read me spend so
+
+0:51:06.880,0:51:09.440
+much time on it though just tweaking it
+
+0:51:08.480,0:51:12.880
+and
+
+0:51:09.440,0:51:12.880
+improving it and and so on
+
+0:51:12.960,0:51:16.160
+we we have a great question here
+
+0:51:14.480,0:51:17.599
+actually um what are you what are your
+
+0:51:16.160,0:51:20.839
+thoughts on these i have i have a
+
+0:51:17.599,0:51:22.880
+thought but i'll let you go first
+
+0:51:20.839,0:51:25.119
+um if any project doesn't have a license
+
+0:51:22.880,0:51:26.960
+is it not considered open source
+
+0:51:25.119,0:51:28.880
+not really not legally no because the
+
+0:51:26.960,0:51:31.119
+thing is that in order to say something
+
+0:51:28.880,0:51:32.720
+is open source the source has to know
+
+0:51:31.119,0:51:34.880
+rather there has to be a license that
+
+0:51:32.720,0:51:35.359
+actually allows to utilize it in certain
+
+0:51:34.880,0:51:37.920
+ways
+
+0:51:35.359,0:51:38.880
+so there is a definition by the open
+
+0:51:37.920,0:51:41.440
+source initiative
+
+0:51:38.880,0:51:43.119
+that says what constitutes an open
+
+0:51:41.440,0:51:44.960
+source license and what must
+
+0:51:43.119,0:51:46.640
+what it must fulfill and what it must
+
+0:51:44.960,0:51:48.640
+not fulfill so for example it does
+
+0:51:46.640,0:51:50.160
+it must not restrict your use of the
+
+0:51:48.640,0:51:52.480
+software in any way or shape
+
+0:51:50.160,0:51:53.920
+so it must not say something like you
+
+0:51:52.480,0:51:55.440
+may use this but only in a
+
+0:51:53.920,0:51:56.400
+non-commercial setting or so in that
+
+0:51:55.440,0:51:58.160
+moment it is not
+
+0:51:56.400,0:52:00.079
+under this definition it is not open
+
+0:51:58.160,0:52:01.920
+source and
+
+0:52:00.079,0:52:03.760
+in case of at least something like
+
+0:52:01.920,0:52:06.640
+germany for example we
+
+0:52:03.760,0:52:08.000
+have the problem i would not necessarily
+
+0:52:06.640,0:52:10.079
+call it a problem but when it comes to
+
+0:52:08.000,0:52:14.400
+open source it is an actual problem
+
+0:52:10.079,0:52:16.839
+that any kind of created
+
+0:52:14.400,0:52:18.720
+things like for example source are
+
+0:52:16.839,0:52:21.680
+automatically copyrighted
+
+0:52:18.720,0:52:23.280
+so i do not have to apply for copyright
+
+0:52:21.680,0:52:24.960
+for copyright for something that i
+
+0:52:23.280,0:52:27.440
+created for it to be
+
+0:52:24.960,0:52:29.200
+protected under under the law of
+
+0:52:27.440,0:52:32.000
+copyright in germany
+
+0:52:29.200,0:52:33.119
+so when i just throw some source up on
+
+0:52:32.000,0:52:36.000
+github
+
+0:52:33.119,0:52:38.000
+it is automatically copyrighted under
+
+0:52:36.000,0:52:41.200
+german law and in theory no one
+
+0:52:38.000,0:52:43.119
+may use that they may look at it
+
+0:52:41.200,0:52:45.520
+but they may not use it and they may not
+
+0:52:43.119,0:52:48.640
+copy it and they definitely may not work
+
+0:52:45.520,0:52:50.640
+built up upon on it so in order for this
+
+0:52:48.640,0:52:52.319
+to be legally viable i have to attach a
+
+0:52:50.640,0:52:53.280
+license to it because otherwise it's
+
+0:52:52.319,0:52:55.520
+automatically
+
+0:52:53.280,0:52:56.800
+protected under a very very restrictive
+
+0:52:55.520,0:53:00.240
+one
+
+0:52:56.800,0:53:02.160
+so at least i i think in in in the us
+
+0:53:00.240,0:53:03.839
+and and also in other countries on the
+
+0:53:02.160,0:53:04.640
+in the world it is probably different
+
+0:53:03.839,0:53:06.640
+but at least
+
+0:53:04.640,0:53:08.319
+in germany maybe even in all of europe
+
+0:53:06.640,0:53:08.720
+i'm not entirely sure but there are
+
+0:53:08.319,0:53:11.760
+these
+
+0:53:08.720,0:53:14.480
+very fine points in copyright law that
+
+0:53:11.760,0:53:15.920
+um make you very very aware once you
+
+0:53:14.480,0:53:19.119
+actually look into that
+
+0:53:15.920,0:53:21.119
+into it a bit uh how important it is to
+
+0:53:19.119,0:53:22.000
+actually attach a license to your source
+
+0:53:21.119,0:53:23.599
+and not just
+
+0:53:22.000,0:53:24.880
+throw it up somewhere and be like do
+
+0:53:23.599,0:53:26.839
+whatever you want with it because do
+
+0:53:24.880,0:53:28.880
+whatever you want with it is not a
+
+0:53:26.839,0:53:31.040
+license i think i remember
+
+0:53:28.880,0:53:31.920
+last time i was reading this um and
+
+0:53:31.040,0:53:34.400
+again that you're right
+
+0:53:31.920,0:53:36.160
+i think it's country specific but if you
+
+0:53:34.400,0:53:38.480
+don't put a license on something you
+
+0:53:36.160,0:53:42.319
+default to the terms and conditions of
+
+0:53:38.480,0:53:44.480
+github and so then it then i think it
+
+0:53:42.319,0:53:45.920
+specifies certain countries and you know
+
+0:53:44.480,0:53:47.599
+that can't i don't know if it can
+
+0:53:45.920,0:53:48.480
+override certain country rules or vice
+
+0:53:47.599,0:53:51.440
+versa
+
+0:53:48.480,0:53:52.559
+but um it doesn't make it open source so
+
+0:53:51.440,0:53:55.680
+you're absolutely right
+
+0:53:52.559,0:53:57.520
+and so uh choose a licensed website by
+
+0:53:55.680,0:53:58.960
+github has some really good comparisons
+
+0:53:57.520,0:54:00.240
+and information so
+
+0:53:58.960,0:54:01.599
+yeah i highly recommend people put a
+
+0:54:00.240,0:54:02.960
+license on it therefore it is clear and
+
+0:54:01.599,0:54:04.800
+you can always change the license later
+
+0:54:02.960,0:54:08.079
+if you want that's my understanding
+
+0:54:04.800,0:54:09.359
+be careful okay interesting so okay i
+
+0:54:08.079,0:54:10.000
+actually gave a talk about this whole
+
+0:54:09.359,0:54:13.280
+topic once
+
+0:54:10.000,0:54:15.520
+at maker faire in germany um so
+
+0:54:13.280,0:54:17.440
+the thing is that what i would recommend
+
+0:54:15.520,0:54:17.920
+is if you want to choose a license for
+
+0:54:17.440,0:54:20.000
+project
+
+0:54:17.920,0:54:21.920
+actually read the license yes it's it's
+
+0:54:20.000,0:54:23.119
+a lot of legalese and it is hard to
+
+0:54:21.920,0:54:24.720
+understand but
+
+0:54:23.119,0:54:27.680
+there are tools online that will help
+
+0:54:24.720,0:54:29.520
+you like tldrlegal.com for example has
+
+0:54:27.680,0:54:30.800
+all the open source licenses listed and
+
+0:54:29.520,0:54:31.839
+you can click on them and it will
+
+0:54:30.800,0:54:34.800
+explain
+
+0:54:31.839,0:54:37.440
+the basic gist of what is in there like
+
+0:54:34.800,0:54:39.280
+allows that in that case of use
+
+0:54:37.440,0:54:41.760
+contains liability or doesn't contain
+
+0:54:39.280,0:54:43.520
+liability allows resharing or not with
+
+0:54:41.760,0:54:44.799
+or without attribution and all that and
+
+0:54:43.520,0:54:45.520
+you can look at that and then you have
+
+0:54:44.799,0:54:47.520
+to
+
+0:54:45.520,0:54:49.680
+think long and hard about whether you
+
+0:54:47.520,0:54:51.760
+actually want to license your work under
+
+0:54:49.680,0:54:53.599
+that and if you're comfortable
+
+0:54:51.760,0:54:55.839
+for example if you choose something like
+
+0:54:53.599,0:54:57.920
+the mit license which basically just
+
+0:54:55.839,0:54:59.920
+says do whatever you want you just need
+
+0:54:57.920,0:55:01.760
+to keep this copyright notice intact and
+
+0:54:59.920,0:55:03.119
+you cannot sue me for any damages that
+
+0:55:01.760,0:55:06.240
+my code causes
+
+0:55:03.119,0:55:06.960
+um you when you use this license you
+
+0:55:06.240,0:55:09.920
+have to be
+
+0:55:06.960,0:55:11.280
+aware that a company may come take your
+
+0:55:09.920,0:55:14.160
+code
+
+0:55:11.280,0:55:16.480
+and build a multi-million dollar a
+
+0:55:14.160,0:55:17.280
+company off of it or product off of it
+
+0:55:16.480,0:55:19.119
+and you will get
+
+0:55:17.280,0:55:20.720
+not a single dime and not even actual
+
+0:55:19.119,0:55:21.920
+recognition and you need to be aware
+
+0:55:20.720,0:55:23.599
+that this can happen
+
+0:55:21.920,0:55:25.839
+i mean the likelihood is very small but
+
+0:55:23.599,0:55:27.680
+still it can happen and you should be
+
+0:55:25.839,0:55:28.960
+comfortable with this thought and if
+
+0:55:27.680,0:55:30.799
+you're not then you need to choose
+
+0:55:28.960,0:55:32.480
+another license
+
+0:55:30.799,0:55:34.559
+something maybe that is viral like the
+
+0:55:32.480,0:55:36.079
+gpl or so where they at least are forced
+
+0:55:34.559,0:55:37.040
+to publish the sources that they built
+
+0:55:36.079,0:55:40.079
+on your
+
+0:55:37.040,0:55:42.799
+on your work on top of your work
+
+0:55:40.079,0:55:43.920
+because and this is where your former
+
+0:55:42.799,0:55:47.359
+question comes in
+
+0:55:43.920,0:55:49.040
+um relicensing of your code can become
+
+0:55:47.359,0:55:50.720
+quite tricky as long as you are the only
+
+0:55:49.040,0:55:53.680
+person who wrote it then
+
+0:55:50.720,0:55:55.839
+there is no problem right okay but as
+
+0:55:53.680,0:55:57.359
+soon as you want to introduce a license
+
+0:55:55.839,0:55:58.400
+for example if you want to switch from
+
+0:55:57.359,0:56:00.799
+mit
+
+0:55:58.400,0:56:02.000
+to a somewhat more restrictive gpl
+
+0:56:00.799,0:56:05.839
+because the gpl has this
+
+0:56:02.000,0:56:07.920
+viral ver virality clause in it
+
+0:56:05.839,0:56:09.760
+you actually need to ask everyone who
+
+0:56:07.920,0:56:10.319
+even contributed a single line to your
+
+0:56:09.760,0:56:13.200
+code
+
+0:56:10.319,0:56:15.040
+or even a just a single character if
+
+0:56:13.200,0:56:17.359
+they are okay with that and if they say
+
+0:56:15.040,0:56:18.799
+no then you have to replace whatever
+
+0:56:17.359,0:56:22.480
+they contributed
+
+0:56:18.799,0:56:24.720
+right okay interesting yeah so
+
+0:56:22.480,0:56:26.480
+this is the reason why octoprint to this
+
+0:56:24.720,0:56:30.079
+day is still a gpl
+
+0:56:26.480,0:56:30.720
+licensed because i started off of cura
+
+0:56:30.079,0:56:33.200
+as i mentioned
+
+0:56:30.720,0:56:36.720
+cura was licensed agpl so i inherited
+
+0:56:33.200,0:56:38.880
+the license because it's viral
+
+0:56:36.720,0:56:40.880
+and these days i actually would prefer
+
+0:56:38.880,0:56:42.720
+to be able to just switch it over to
+
+0:56:40.880,0:56:44.640
+something slightly different more like
+
+0:56:42.720,0:56:46.319
+the lgpl maybe because it would make
+
+0:56:44.640,0:56:48.079
+more sense in the case of something that
+
+0:56:46.319,0:56:49.920
+is more like a platform or framework at
+
+0:56:48.079,0:56:51.440
+this point than
+
+0:56:49.920,0:56:54.400
+like a network appliance or something
+
+0:56:51.440,0:56:56.960
+like that for which the agplus moment
+
+0:56:54.400,0:56:58.880
+but in order to do that i had to i would
+
+0:56:56.960,0:57:01.599
+i would need to get the legal
+
+0:56:58.880,0:57:03.280
+permission from every single person who
+
+0:57:01.599,0:57:05.200
+ever contributed to both
+
+0:57:03.280,0:57:06.960
+the parts of cura that are still in my
+
+0:57:05.200,0:57:09.119
+com layer as well
+
+0:57:06.960,0:57:10.400
+as everyone who ever even put a single
+
+0:57:09.119,0:57:12.559
+digit somewhere in
+
+0:57:10.400,0:57:14.799
+in octoprince code and this is like how
+
+0:57:12.559,0:57:16.880
+many people like hundreds or thousands
+
+0:57:14.799,0:57:19.280
+yeah yeah i actually do not know right
+
+0:57:16.880,0:57:21.280
+now how big the network graph is but
+
+0:57:19.280,0:57:22.640
+it's quite a number of people and
+
+0:57:21.280,0:57:25.839
+frankly
+
+0:57:22.640,0:57:27.040
+i do not i do not think that many would
+
+0:57:25.839,0:57:29.520
+answer
+
+0:57:27.040,0:57:31.599
+true so i mean even if they would
+
+0:57:29.520,0:57:34.240
+technically be okay with it
+
+0:57:31.599,0:57:35.839
+yeah right p try getting people's email
+
+0:57:34.240,0:57:36.640
+addresses first then trying to get in
+
+0:57:35.839,0:57:38.079
+touch with them
+
+0:57:36.640,0:57:40.000
+then trying to get a permission from
+
+0:57:38.079,0:57:41.200
+them so yeah best
+
+0:57:40.000,0:57:43.119
+settle on a license that you are
+
+0:57:41.200,0:57:45.040
+completely 100 comfortable
+
+0:57:43.119,0:57:46.799
+when you release something because
+
+0:57:45.040,0:57:48.559
+changing it depending on
+
+0:57:46.799,0:57:49.839
+how many people have already contributed
+
+0:57:48.559,0:57:53.119
+can be a big
+
+0:57:49.839,0:57:54.559
+big pain in the behind
+
+0:57:53.119,0:57:55.680
+that is true okay i wasn't aware of that
+
+0:57:54.559,0:57:57.040
+see i learned something new as well
+
+0:57:55.680,0:57:58.400
+which is great which is why i like
+
+0:57:57.040,0:57:59.359
+collaborating with so many people and
+
+0:57:58.400,0:58:00.319
+just chatting to people because you
+
+0:57:59.359,0:58:02.640
+always learn
+
+0:58:00.319,0:58:03.680
+you know different things i know we've
+
+0:58:02.640,0:58:05.920
+covered this already
+
+0:58:03.680,0:58:08.079
+um just to say that i don't think there
+
+0:58:05.920,0:58:10.720
+is a best license choose one
+
+0:58:08.079,0:58:12.160
+that you're comfortable with probably um
+
+0:58:10.720,0:58:13.119
+i prefer i mean there are a couple of
+
+0:58:12.160,0:58:16.319
+popular ones
+
+0:58:13.119,0:58:18.400
+sorry which ones yeah
+
+0:58:16.319,0:58:20.000
+there are i mean the most common ones
+
+0:58:18.400,0:58:22.720
+these days are the gpl
+
+0:58:20.000,0:58:24.960
+the mit and the bsd i would say maybe a
+
+0:58:22.720,0:58:26.960
+bit of the apache 2 stuff but that's
+
+0:58:24.960,0:58:28.880
+that depends a bit on the in on the on
+
+0:58:26.960,0:58:31.119
+the ecosystem you find yourself in i
+
+0:58:28.880,0:58:33.440
+know apache 2 is quite um
+
+0:58:31.119,0:58:35.359
+uh quite popular in the java group but
+
+0:58:33.440,0:58:36.000
+i've seen it less and less in the in the
+
+0:58:35.359,0:58:39.440
+python
+
+0:58:36.000,0:58:42.000
+and node.js ecosystem
+
+0:58:39.440,0:58:44.160
+so yeah and i would just suggest to sit
+
+0:58:42.000,0:58:46.480
+down and read through the most
+
+0:58:44.160,0:58:47.599
+common ones i mean on the one side you
+
+0:58:46.480,0:58:50.799
+have the viral
+
+0:58:47.599,0:58:53.040
+stuff like the gpl the agpl the lgbl
+
+0:58:50.799,0:58:54.079
+gpl and on the other side you have the
+
+0:58:53.040,0:58:56.960
+non-viral stuff
+
+0:58:54.079,0:58:58.720
+like the mit the bsd the apache 2 and a
+
+0:58:56.960,0:59:01.920
+bunch of other things
+
+0:58:58.720,0:59:03.520
+and just yeah go on tldrlegal.com
+
+0:59:01.920,0:59:05.359
+click through them and just figure out
+
+0:59:03.520,0:59:08.640
+what the differences are and
+
+0:59:05.359,0:59:12.079
+what you want for yourself personally
+
+0:59:08.640,0:59:14.000
+i so small stuff that i primarily
+
+0:59:12.079,0:59:16.240
+write to quickly fix some kind of
+
+0:59:14.000,0:59:18.160
+problem that i have and that i
+
+0:59:16.240,0:59:20.319
+then just throw online don't give a lot
+
+0:59:18.160,0:59:22.079
+of maintenance for or something more
+
+0:59:20.319,0:59:24.160
+like i merge prs when they come in and
+
+0:59:22.079,0:59:26.240
+if there is a big bug and i have an idea
+
+0:59:24.160,0:59:27.599
+idea of how to fix it i fix it but
+
+0:59:26.240,0:59:29.599
+otherwise it's not that big of a
+
+0:59:27.599,0:59:32.480
+priority and more like a pet project
+
+0:59:29.599,0:59:32.960
+i usually these days license under mit
+
+0:59:32.480,0:59:35.760
+okay
+
+0:59:32.960,0:59:37.760
+because it's like a here you have it i
+
+0:59:35.760,0:59:39.760
+don't really care about it
+
+0:59:37.760,0:59:40.799
+have fun with it use it if it is useful
+
+0:59:39.760,0:59:42.880
+for you yay and
+
+0:59:40.799,0:59:44.480
+if not then well but what are you doing
+
+0:59:42.880,0:59:46.160
+here um
+
+0:59:44.480,0:59:48.000
+but for for things that i really care
+
+0:59:46.160,0:59:50.240
+about like octoprint
+
+0:59:48.000,0:59:51.680
+i would never even if i had the choice i
+
+0:59:50.240,0:59:53.440
+would never license octoprint under
+
+0:59:51.680,0:59:56.160
+something like an mit or bst
+
+0:59:53.440,0:59:57.599
+bsd license because this this viral
+
+0:59:56.160,1:00:00.240
+character in this case there is
+
+0:59:57.599,1:00:00.960
+just too much work on this that i do not
+
+1:00:00.240,1:00:03.599
+really want
+
+1:00:00.960,1:00:04.000
+to have to face the situation that i've
+
+1:00:03.599,1:00:05.680
+now
+
+1:00:04.000,1:00:07.040
+actually faced a bunch of times with
+
+1:00:05.680,1:00:10.559
+companies who simply ignored
+
+1:00:07.040,1:00:12.079
+the license that they put it in some
+
+1:00:10.559,1:00:12.559
+kind of product of theirs claim it's
+
+1:00:12.079,1:00:16.480
+theirs
+
+1:00:12.559,1:00:18.000
+and make a ton of money from it so um
+
+1:00:16.480,1:00:20.240
+especially considering the fact that i'm
+
+1:00:18.000,1:00:20.799
+trying to live from the work that i put
+
+1:00:20.240,1:00:23.839
+in this
+
+1:00:20.799,1:00:27.359
+right it's like also i think
+
+1:00:23.839,1:00:28.319
+it's i mean i know this is kind of a
+
+1:00:27.359,1:00:30.720
+philosophy
+
+1:00:28.319,1:00:31.359
+philosophical war a bit going on there
+
+1:00:30.720,1:00:33.359
+between the
+
+1:00:31.359,1:00:34.960
+between the viral and the non-viral camp
+
+1:00:33.359,1:00:36.799
+when it comes to open source licenses
+
+1:00:34.960,1:00:39.839
+but personally i think
+
+1:00:36.799,1:00:42.880
+if we want to somehow get
+
+1:00:39.839,1:00:46.240
+companies to actually respect and
+
+1:00:42.880,1:00:48.000
+and realize that open sources work and
+
+1:00:46.240,1:00:49.359
+that it doesn't fall from the sky and
+
+1:00:48.000,1:00:52.720
+that maybe they
+
+1:00:49.359,1:00:54.319
+need to um they they need to contribute
+
+1:00:52.720,1:00:56.000
+back to it something like dual licensing
+
+1:00:54.319,1:00:59.119
+or something would also be an option
+
+1:00:56.000,1:01:02.960
+like if you are using
+
+1:00:59.119,1:01:04.000
+my my my stuff in an educational or in a
+
+1:01:02.960,1:01:06.799
+private setting then
+
+1:01:04.000,1:01:07.359
+it's licensed under n and under my under
+
+1:01:06.799,1:01:09.680
+under
+
+1:01:07.359,1:01:11.040
+under mit and otherwise it's gpl or
+
+1:01:09.680,1:01:13.119
+something like that or you can
+
+1:01:11.040,1:01:14.960
+the other way around sorry so you can't
+
+1:01:13.119,1:01:16.559
+do stuff like you can buy a different
+
+1:01:14.960,1:01:17.200
+license of course for that you need to
+
+1:01:16.559,1:01:20.720
+have
+
+1:01:17.200,1:01:22.240
+everything under your control but yeah
+
+1:01:20.720,1:01:23.920
+that is a really interesting one
+
+1:01:22.240,1:01:25.359
+actually i do i do like that having two
+
+1:01:23.920,1:01:26.400
+licenses you know if you're using it for
+
+1:01:25.359,1:01:29.440
+a pet project
+
+1:01:26.400,1:01:30.559
+or for some educational school then fine
+
+1:01:29.440,1:01:31.760
+you know use it
+
+1:01:30.559,1:01:33.359
+whereas if you're going to make money
+
+1:01:31.760,1:01:33.680
+out of this then you've got to either
+
+1:01:33.359,1:01:34.880
+yeah
+
+1:01:33.680,1:01:36.480
+you've got some clause you've got to
+
+1:01:34.880,1:01:38.240
+have you've got to keep your code open
+
+1:01:36.480,1:01:39.680
+source as well or whatever it is exactly
+
+1:01:38.240,1:01:40.720
+so i do like that actually that's really
+
+1:01:39.680,1:01:41.920
+interesting that's something i think i
+
+1:01:40.720,1:01:44.319
+want to start doing
+
+1:01:41.920,1:01:47.040
+i'm having dual license i'll have to
+
+1:01:44.319,1:01:48.880
+look more into that
+
+1:01:47.040,1:01:51.760
+i've got some people in the chat i did
+
+1:01:48.880,1:01:54.319
+paste in some examples
+
+1:01:51.760,1:01:55.359
+about mit and where like ansible bash
+
+1:01:54.319,1:01:58.960
+and [ __ ]
+
+1:01:55.359,1:02:02.000
+you sorry uh where is it babel.net core
+
+1:01:58.960,1:02:05.520
+rails use mit whereas ansible bash
+
+1:02:02.000,1:02:08.240
+and [ __ ] use uh gpl uh version
+
+1:02:05.520,1:02:09.920
+3 and then santosh is saying that
+
+1:02:08.240,1:02:11.760
+angular is mit
+
+1:02:09.920,1:02:12.960
+so it's always yeah always always quite
+
+1:02:11.760,1:02:16.880
+interesting
+
+1:02:12.960,1:02:16.880
+to see what other projects are using
+
+1:02:17.920,1:02:21.680
+yeah when including other projects in
+
+1:02:19.760,1:02:23.280
+your projects you need to look at those
+
+1:02:21.680,1:02:24.720
+as junior was saying because they might
+
+1:02:23.280,1:02:26.400
+have some restrictions what you can do
+
+1:02:24.720,1:02:28.079
+with it can you sell it
+
+1:02:26.400,1:02:29.839
+and and so forth because you might be
+
+1:02:28.079,1:02:30.960
+able to sell it you need to have open
+
+1:02:29.839,1:02:32.559
+source
+
+1:02:30.960,1:02:34.079
+now you also need to be very very
+
+1:02:32.559,1:02:35.680
+careful when for example
+
+1:02:34.079,1:02:37.760
+not every not all licenses are
+
+1:02:35.680,1:02:38.799
+compatible to each other for example you
+
+1:02:37.760,1:02:43.119
+cannot
+
+1:02:38.799,1:02:44.319
+um i'm trying to think of a good example
+
+1:02:43.119,1:02:46.400
+right now but i can't
+
+1:02:44.319,1:02:48.559
+for the life of me um in theory there
+
+1:02:46.400,1:02:51.119
+are certain licenses situations
+
+1:02:48.559,1:02:52.799
+where if i having an having my stuff
+
+1:02:51.119,1:02:55.359
+licensed under an agpl
+
+1:02:52.799,1:02:56.720
+would try to utilize this library under
+
+1:02:55.359,1:02:57.520
+something else which i can think of
+
+1:02:56.720,1:02:59.760
+right now
+
+1:02:57.520,1:03:01.440
+then this would not work because the
+
+1:02:59.760,1:03:03.280
+licenses would
+
+1:03:01.440,1:03:04.720
+yeah negate each other not negate but
+
+1:03:03.280,1:03:05.760
+you know like they would have clauses
+
+1:03:04.720,1:03:07.760
+that conflict without
+
+1:03:05.760,1:03:09.039
+with with each other so it is very
+
+1:03:07.760,1:03:10.480
+important that whenever you
+
+1:03:09.039,1:03:12.559
+work on something that is open source
+
+1:03:10.480,1:03:14.000
+you actually check if you can include it
+
+1:03:12.559,1:03:16.960
+for example if you work on something
+
+1:03:14.000,1:03:18.720
+that is mit i think you cannot
+
+1:03:16.960,1:03:20.079
+incorporate stuff that is licensed under
+
+1:03:18.720,1:03:22.240
+the gpl
+
+1:03:20.079,1:03:25.599
+without re-licensing your own project as
+
+1:03:22.240,1:03:29.599
+gpl because the viral clause in the gpl
+
+1:03:25.599,1:03:31.920
+restricts things further so that the mit
+
+1:03:29.599,1:03:33.039
+right you you you you would give your
+
+1:03:31.920,1:03:36.240
+stuff away for free
+
+1:03:33.039,1:03:38.480
+but um so completely for under under
+
+1:03:36.240,1:03:41.039
+terms of the mit but if you bind against
+
+1:03:38.480,1:03:42.960
+stuff that is gpl or pull whole code
+
+1:03:41.039,1:03:45.200
+snippets in that are gpl
+
+1:03:42.960,1:03:47.039
+you are doing the same to that as well
+
+1:03:45.200,1:03:48.480
+and this is against this license because
+
+1:03:47.039,1:03:51.200
+this license says
+
+1:03:48.480,1:03:51.760
+you may only share it if you share it
+
+1:03:51.200,1:03:54.079
+alike
+
+1:03:51.760,1:03:55.280
+so with a gpl or a gpl compatible
+
+1:03:54.079,1:03:56.880
+license
+
+1:03:55.280,1:03:58.640
+which i think actually hasn't has an
+
+1:03:56.880,1:04:01.200
+exception for mit but still
+
+1:03:58.640,1:04:01.760
+i mean yeah there was a famous story i
+
+1:04:01.200,1:04:03.440
+can't remember
+
+1:04:01.760,1:04:05.359
+the the project or the company name but
+
+1:04:03.440,1:04:06.799
+they had built this open source project
+
+1:04:05.359,1:04:08.319
+that had done really well for like i
+
+1:04:06.799,1:04:09.760
+think like seven years
+
+1:04:08.319,1:04:11.119
+and then they thought you know what we
+
+1:04:09.760,1:04:12.000
+want to we want to make it a closed
+
+1:04:11.119,1:04:15.280
+source project because
+
+1:04:12.000,1:04:15.760
+now it's like it's it's it's done so
+
+1:04:15.280,1:04:17.200
+well
+
+1:04:15.760,1:04:18.799
+but obviously by the licensing they
+
+1:04:17.200,1:04:20.559
+couldn't just do that so they kept this
+
+1:04:18.799,1:04:21.680
+open source version that the community
+
+1:04:20.559,1:04:23.359
+can maintain
+
+1:04:21.680,1:04:25.119
+and then the company took the code and
+
+1:04:23.359,1:04:26.480
+started the closed source version
+
+1:04:25.119,1:04:28.240
+and legally it was correct they found a
+
+1:04:26.480,1:04:29.839
+loophole but oh my god everyone hated
+
+1:04:28.240,1:04:30.880
+that company forever afterwards after
+
+1:04:29.839,1:04:31.680
+doing that because literally they just
+
+1:04:30.880,1:04:34.240
+did it
+
+1:04:31.680,1:04:35.920
+actually happens actually quite a lot we
+
+1:04:34.240,1:04:38.400
+also had a case like this in in in the
+
+1:04:35.920,1:04:40.400
+3d printing space a couple of years ago
+
+1:04:38.400,1:04:41.599
+when uh when a popular when a popular
+
+1:04:40.400,1:04:43.440
+piece of
+
+1:04:41.599,1:04:45.200
+was it the firmware no it was a host
+
+1:04:43.440,1:04:47.680
+software popular piece
+
+1:04:45.200,1:04:49.520
+of basically like a compatible competit
+
+1:04:47.680,1:04:50.319
+competitor of octoprint but a desktop
+
+1:04:49.520,1:04:52.960
+application
+
+1:04:50.319,1:04:54.480
+uh went closed source people were like
+
+1:04:52.960,1:04:56.400
+oh
+
+1:04:54.480,1:04:57.520
+and it was a bit tricky in this case
+
+1:04:56.400,1:04:59.920
+because
+
+1:04:57.520,1:05:01.039
+they kept the they kept the the oldest
+
+1:04:59.920,1:05:03.440
+old version kept
+
+1:05:01.039,1:05:05.280
+kept it open source but all the code was
+
+1:05:03.440,1:05:05.920
+owned by this one person so that the
+
+1:05:05.280,1:05:08.480
+license
+
+1:05:05.920,1:05:09.119
+in this case the license which was
+
+1:05:08.480,1:05:13.280
+completely
+
+1:05:09.119,1:05:16.160
+legally or fine because i mean if
+
+1:05:13.280,1:05:17.119
+if all the people that did that that
+
+1:05:16.160,1:05:19.440
+wrote the code
+
+1:05:17.119,1:05:21.119
+uh say it's okay to do then it's okay to
+
+1:05:19.440,1:05:22.640
+do and in this case that the code was
+
+1:05:21.119,1:05:23.359
+basically built on the shoulders of one
+
+1:05:22.640,1:05:26.640
+single guy
+
+1:05:23.359,1:05:29.119
+so that was fine
+
+1:05:26.640,1:05:30.000
+and this person had to eat so they made
+
+1:05:29.119,1:05:33.280
+this decision
+
+1:05:30.000,1:05:35.200
+so sometimes it's okay and
+
+1:05:33.280,1:05:37.200
+i mean it feels weird and you look at
+
+1:05:35.200,1:05:38.720
+that in situations like this and are
+
+1:05:37.200,1:05:41.200
+like
+
+1:05:38.720,1:05:42.079
+but i mean there's always two sides to a
+
+1:05:41.200,1:05:43.599
+story
+
+1:05:42.079,1:05:45.280
+of course i think that's where it goes
+
+1:05:43.599,1:05:46.559
+back if we go we've almost gone full
+
+1:05:45.280,1:05:48.160
+circle i'm looking at the clock and
+
+1:05:46.559,1:05:51.920
+we're gonna have to call it a day soon
+
+1:05:48.160,1:05:55.280
+but uh full circle to um
+
+1:05:51.920,1:05:57.520
+that i think i wasn't saying now but
+
+1:05:55.280,1:05:59.839
+yeah full circle two if companies could
+
+1:05:57.520,1:06:02.240
+spawn uh could donate or sponsor
+
+1:05:59.839,1:06:04.079
+um these projects then it becomes less
+
+1:06:02.240,1:06:05.920
+of an issue and a lot of these companies
+
+1:06:04.079,1:06:07.520
+you know spend thousands per day on
+
+1:06:05.920,1:06:09.200
+contractors working on their project
+
+1:06:07.520,1:06:10.000
+they don't think about the free software
+
+1:06:09.200,1:06:11.280
+they're getting
+
+1:06:10.000,1:06:13.359
+where if they just gave kind of a
+
+1:06:11.280,1:06:15.039
+hundred dollars a month it would just
+
+1:06:13.359,1:06:16.400
+be and so many of these companies did
+
+1:06:15.039,1:06:17.760
+that even probably ten dollars a month
+
+1:06:16.400,1:06:18.720
+which would be a drop in the ocean for
+
+1:06:17.760,1:06:21.119
+them
+
+1:06:18.720,1:06:22.960
+then it would just really help open
+
+1:06:21.119,1:06:24.400
+source move so much faster so many more
+
+1:06:22.960,1:06:27.520
+people could go
+
+1:06:24.400,1:06:28.720
+full time on open source and then then
+
+1:06:27.520,1:06:30.720
+the tools that they're using could then
+
+1:06:28.720,1:06:32.720
+move so much faster
+
+1:06:30.720,1:06:33.920
+i think you know there are so many ways
+
+1:06:32.720,1:06:35.760
+to make money from open source and
+
+1:06:33.920,1:06:37.599
+sponsorship is just one way but it does
+
+1:06:35.760,1:06:40.160
+look like it is
+
+1:06:37.599,1:06:41.520
+that is growing because selling support
+
+1:06:40.160,1:06:43.520
+like you said
+
+1:06:41.520,1:06:45.760
+it was always been popular in the past
+
+1:06:43.520,1:06:47.680
+but it's not great
+
+1:06:45.760,1:06:49.280
+it's it doesn't scare me scale yeah
+
+1:06:47.680,1:06:52.400
+exactly
+
+1:06:49.280,1:06:54.079
+exactly so yeah it's definitely
+
+1:06:52.400,1:06:55.520
+something to think about and i think
+
+1:06:54.079,1:06:57.680
+it's going to be
+
+1:06:55.520,1:06:58.799
+it's going to be interesting uh in the
+
+1:06:57.680,1:07:00.400
+near future i think
+
+1:06:58.799,1:07:02.240
+people have become look at github doing
+
+1:07:00.400,1:07:04.400
+github sponsors right so
+
+1:07:02.240,1:07:05.280
+now anyone okay some countries aren't
+
+1:07:04.400,1:07:06.640
+covered yet but
+
+1:07:05.280,1:07:08.079
+the number is increasing last time i
+
+1:07:06.640,1:07:10.000
+looked i think it was like mid 30s the
+
+1:07:08.079,1:07:11.520
+amount of countries that were supported
+
+1:07:10.000,1:07:13.359
+but anyone can create an account on
+
+1:07:11.520,1:07:15.039
+github sponsors and people can
+
+1:07:13.359,1:07:16.799
+give them money i know we have people in
+
+1:07:15.039,1:07:18.400
+my community that have really helped out
+
+1:07:16.799,1:07:20.480
+and i say please create a sponsorship
+
+1:07:18.400,1:07:21.520
+account it's free just to apply for it
+
+1:07:20.480,1:07:22.799
+and he said but why would i do that
+
+1:07:21.520,1:07:24.319
+who'd want to give me money i said i'm
+
+1:07:22.799,1:07:24.960
+i'm hinting to you i want to give you
+
+1:07:24.319,1:07:26.240
+money
+
+1:07:24.960,1:07:28.640
+you've been really helpful thank you so
+
+1:07:26.240,1:07:30.160
+much so um
+
+1:07:28.640,1:07:31.760
+yeah i think more and more people should
+
+1:07:30.160,1:07:34.000
+apply for that and go and
+
+1:07:31.760,1:07:35.359
+add value like you said to projects just
+
+1:07:34.000,1:07:37.839
+go add value and add value
+
+1:07:35.359,1:07:38.799
+isn't always just pull requests and and
+
+1:07:37.839,1:07:41.520
+so forth so
+
+1:07:38.799,1:07:42.640
+uh yeah that's really interesting i
+
+1:07:41.520,1:07:44.240
+think it's just been such a great
+
+1:07:42.640,1:07:45.440
+discussion especially the licenses that
+
+1:07:44.240,1:07:47.760
+was a
+
+1:07:45.440,1:07:48.559
+a really a good pleasant surprise but i
+
+1:07:47.760,1:07:50.559
+think there's a lot of people
+
+1:07:48.559,1:07:51.680
+a lot of things that sorry it's a
+
+1:07:50.559,1:07:54.319
+subject that people
+
+1:07:51.680,1:07:55.359
+shy away from a lot i know i do because
+
+1:07:54.319,1:07:57.280
+it's just
+
+1:07:55.359,1:07:58.880
+crazy but it's good that you've done
+
+1:07:57.280,1:07:59.760
+your research you know about he's gonna
+
+1:07:58.880,1:08:02.400
+talk on it and
+
+1:07:59.760,1:08:05.359
+and so on i would link you the talk but
+
+1:08:02.400,1:08:05.359
+it's in german sadly
+
+1:08:05.680,1:08:09.280
+yeah my jam is not so good you have to
+
+1:08:07.039,1:08:11.200
+do an english version
+
+1:08:09.280,1:08:12.799
+i mean i could do the slice in in
+
+1:08:11.200,1:08:15.680
+english maybe at some point but
+
+1:08:12.799,1:08:17.359
+yeah so that was that was quite a good a
+
+1:08:15.680,1:08:18.960
+nicely filled talk as well i got to say
+
+1:08:17.359,1:08:21.440
+i was pleasantly surprised by that back
+
+1:08:18.960,1:08:23.120
+then because i figured if i go
+
+1:08:21.440,1:08:24.719
+it was it was at the maker faire in
+
+1:08:23.120,1:08:26.880
+germany so like
+
+1:08:24.719,1:08:28.640
+lots of people who just build stuff and
+
+1:08:26.880,1:08:30.159
+are usually not even remotely thinking
+
+1:08:28.640,1:08:31.279
+about licensing so not software people
+
+1:08:30.159,1:08:33.920
+primarily but more like
+
+1:08:31.279,1:08:34.719
+tinkerers and hardware tinkerers and and
+
+1:08:33.920,1:08:36.560
+people who knit
+
+1:08:34.719,1:08:38.000
+maybe and stuff like that and i just
+
+1:08:36.560,1:08:40.799
+figured maybe it would be good
+
+1:08:38.000,1:08:42.480
+to try to shed some light on this topic
+
+1:08:40.799,1:08:44.480
+because as an open source dev
+
+1:08:42.480,1:08:47.920
+like it's it's something that i actually
+
+1:08:44.480,1:08:50.239
+had to think about and learn about
+
+1:08:47.920,1:08:52.000
+and at first i was a bit worried when i
+
+1:08:50.239,1:08:54.960
+handed in this this talk
+
+1:08:52.000,1:08:56.480
+that the somewhat dry topic would maybe
+
+1:08:54.960,1:08:58.719
+scare people off but
+
+1:08:56.480,1:09:00.319
+uh apparently they were actually
+
+1:08:58.719,1:09:02.400
+interested and happy that someone would
+
+1:09:00.319,1:09:04.880
+would explain it to them so yeah that
+
+1:09:02.400,1:09:06.239
+was a nice experience as well
+
+1:09:04.880,1:09:07.520
+maybe at some point i have to give it
+
+1:09:06.239,1:09:07.920
+again in english or something i don't
+
+1:09:07.520,1:09:09.279
+know
+
+1:09:07.920,1:09:11.120
+i i think so i think it'd be very
+
+1:09:09.279,1:09:11.920
+popular it is something that people
+
+1:09:11.120,1:09:13.199
+don't
+
+1:09:11.920,1:09:14.239
+would like to know more about but don't
+
+1:09:13.199,1:09:15.440
+want to talk about because they just
+
+1:09:14.239,1:09:18.640
+don't know
+
+1:09:15.440,1:09:20.239
+um so i think it'll be really good okay
+
+1:09:18.640,1:09:21.600
+i think last final question
+
+1:09:20.239,1:09:23.279
+i think this is quite an interesting one
+
+1:09:21.600,1:09:24.000
+so apollo thank you so much for the
+
+1:09:23.279,1:09:26.640
+question
+
+1:09:24.000,1:09:27.279
+and i don't i'm not sure about if about
+
+1:09:26.640,1:09:29.199
+this
+
+1:09:27.279,1:09:30.799
+sorry just to hear what gina thinks i've
+
+1:09:29.199,1:09:34.560
+had any experience or any stories to
+
+1:09:30.799,1:09:37.759
+share on this
+
+1:09:34.560,1:09:40.719
+uh so the question is um
+
+1:09:37.759,1:09:42.159
+how would someone under 18 uh make money
+
+1:09:40.719,1:09:43.920
+from open source does it
+
+1:09:42.159,1:09:45.440
+does it change because they're under 18
+
+1:09:43.920,1:09:47.279
+i don't know
+
+1:09:45.440,1:09:48.960
+i'm not entirely sure about for example
+
+1:09:47.279,1:09:50.080
+github's terms of service but i'm pretty
+
+1:09:48.960,1:09:52.560
+sure i have to be
+
+1:09:50.080,1:09:53.359
+of legal age in order to open account
+
+1:09:52.560,1:09:57.040
+open account
+
+1:09:53.359,1:09:59.520
+open an account dear and me my tongue is
+
+1:09:57.040,1:10:00.840
+tricky today probably yeah that's
+
+1:09:59.520,1:10:03.840
+probably it
+
+1:10:00.840,1:10:07.280
+um for patreon i think you have to be
+
+1:10:03.840,1:10:08.640
+uh legal and yeah i could imagine that
+
+1:10:07.280,1:10:11.120
+this will be tricky because
+
+1:10:08.640,1:10:12.640
+i i probably i would imagine that a lot
+
+1:10:11.120,1:10:14.640
+of companies
+
+1:10:12.640,1:10:16.960
+like github or patreon would probably
+
+1:10:14.640,1:10:17.520
+like to have you as a creator on board
+
+1:10:16.960,1:10:19.920
+but
+
+1:10:17.520,1:10:20.640
+but it would be like a legal minefield
+
+1:10:19.920,1:10:22.880
+for it
+
+1:10:20.640,1:10:24.320
+for for them to do it so that makes it
+
+1:10:22.880,1:10:26.960
+probably a bit tricky
+
+1:10:24.320,1:10:27.760
+maybe if you had support by a guardian
+
+1:10:26.960,1:10:30.480
+or
+
+1:10:27.760,1:10:32.080
+like a parent or someone that's that's
+
+1:10:30.480,1:10:34.560
+about the only advice that i can give
+
+1:10:32.080,1:10:37.520
+here because i don't know it's
+
+1:10:34.560,1:10:38.159
+yeah it is a legal minefield i mean i
+
+1:10:37.520,1:10:40.239
+see it with
+
+1:10:38.159,1:10:42.159
+with with stuff like a support forum
+
+1:10:40.239,1:10:43.679
+only just where you are i
+
+1:10:42.159,1:10:45.360
+suddenly have to think about stuff like
+
+1:10:43.679,1:10:48.800
+copper and uh
+
+1:10:45.360,1:10:50.239
+and and the child protection laws in in
+
+1:10:48.800,1:10:50.960
+germany and all that and everything
+
+1:10:50.239,1:10:52.880
+becomes
+
+1:10:50.960,1:10:54.480
+extremely complicated just because you
+
+1:10:52.880,1:10:56.159
+have a public forum i do not even want
+
+1:10:54.480,1:10:58.880
+to think about being a payment provider
+
+1:10:56.159,1:11:00.800
+or payment service in that case
+
+1:10:58.880,1:11:02.560
+that is very true they say i don't want
+
+1:11:00.800,1:11:03.920
+to take up any more of your time i think
+
+1:11:02.560,1:11:06.000
+i really appreciate you taking the time
+
+1:11:03.920,1:11:08.159
+out to come and chat to my community and
+
+1:11:06.000,1:11:09.679
+you bringing some of your community
+
+1:11:08.159,1:11:12.640
+over because you had a stream just
+
+1:11:09.679,1:11:14.080
+before us and yeah um
+
+1:11:12.640,1:11:15.840
+is there anything else you'd like to say
+
+1:11:14.080,1:11:17.360
+as a closing note or give yourself a
+
+1:11:15.840,1:11:19.760
+shout out talk about you know give
+
+1:11:17.360,1:11:21.679
+your project a shout out feel free to
+
+1:11:19.760,1:11:23.120
+say to do that oh actually just thank
+
+1:11:21.679,1:11:24.800
+you for the opportunity i had a lot of
+
+1:11:23.120,1:11:26.640
+fun here
+
+1:11:24.800,1:11:28.480
+and it's nice to to talk about all
+
+1:11:26.640,1:11:30.320
+things open source and not just
+
+1:11:28.480,1:11:32.880
+octoprint for once
+
+1:11:30.320,1:11:34.719
+but everyone gooch go check out uh
+
+1:11:32.880,1:11:35.840
+octoprint do have a look at it
+
+1:11:34.719,1:11:38.159
+and it's been going for quite a few
+
+1:11:35.840,1:11:39.520
+years and it'll be interesting to see um
+
+1:11:38.159,1:11:41.840
+yeah how it looks i'm to go check it out
+
+1:11:39.520,1:11:45.920
+myself after the stream as well
+
+1:11:41.840,1:11:48.880
+perfect uh thank you so much
+
+1:11:45.920,1:11:50.400
+no that was okay thank you again so much
+
+1:11:48.880,1:11:52.640
+everyone will say our buys
+
+1:11:50.400,1:11:54.159
+um give the video a thumbs up subscribe
+
+1:11:52.640,1:11:57.199
+if you haven't already check out
+
+1:11:54.159,1:11:58.320
+uh junior social channels in the links
+
+1:11:57.199,1:11:59.440
+below i understand one of them's not
+
+1:11:58.320,1:12:00.640
+working i'm gonna go check this out
+
+1:11:59.440,1:12:03.120
+after the stream
+
+1:12:00.640,1:12:04.159
+uh gina hold on for like two minutes i
+
+1:12:03.120,1:12:05.520
+want to stop the stream and i'm just
+
+1:12:04.159,1:12:08.560
+gonna thank you again
+
+1:12:05.520,1:12:10.080
+as well so everyone have a great weekend
+
+1:12:08.560,1:12:12.000
+remember a green square a day keeps
+
+1:12:10.080,1:12:12.560
+eddie away so keep contributing adding
+
+1:12:12.000,1:12:15.920
+value
+
+1:12:12.560,1:12:17.840
+uh to open source okay let me try to
+
+1:12:15.920,1:12:23.120
+remember to bring up the holding screen
+
+1:12:17.840,1:12:23.120
+wait i wanted it i'll move
+
+1:12:23.520,1:12:26.719
+i like this setup we'll see i like me
+
+1:12:25.199,1:12:27.840
+being smaller than my guest being big i
+
+1:12:26.719,1:12:29.840
+think that's um
+
+1:12:27.840,1:12:31.120
+you know that's pretty pretty cool but
+
+1:12:29.840,1:12:33.040
+uh lots of people saying thank you in
+
+1:12:31.120,1:12:37.840
+the chat and uh good night
+
+1:12:33.040,1:12:37.840
+so that's cool thanks everyone
+
+1:12:40.840,1:12:43.840
+bye-bye
