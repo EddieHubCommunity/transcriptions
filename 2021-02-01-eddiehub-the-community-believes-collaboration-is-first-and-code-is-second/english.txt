@@ -22,7 +22,7 @@ Also, I bring awesome guests on there to hang out with us
 
 We also have a GitHub organisation that you can join
 
-Just raise an issue on the support repo with the type "invite me to the organisations"
+Just raise an issue on the support repo with the type "invite me to the organisation"
 
 And the GitHub Action will do all the magic and do all the rest, and send you an invitation
 
