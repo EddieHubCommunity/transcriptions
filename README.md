@@ -58,3 +58,11 @@ Okay, so we have all the ingredients laid out here
 *Note: do not mix formats in a single file, but they can be mixed with a folder*
 
 More information on the YouTube docs for [advanced transcibing](https://support.google.com/youtube/answer/2734698#zippy=%2Cbasic-file-formats%2Csubrip-srt-example%2Cadvanced-file-formats%2Cbroadcast-file-formats-tv-and-movies%2Csubviewer-sbv-example).
+
+To do this you would all be using the [youtube studio](https://studio.youtube.com/) having access to :
+ - Editing captions
+ - Adding languages
+ - Translating languages
+ and many more!
+ 
+ using the subtitle tab located at the left of personal youtube studio channel using your normal youtube channel as the authentication to accessing all this.
